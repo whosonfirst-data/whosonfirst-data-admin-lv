@@ -74,7 +74,7 @@
         "wk:page":"Koc%C4%93ni"
     },
     "wof:country":"LV",
-    "wof:geomhash":"c0d02c442e2ffa423f999649aa9ed588",
+    "wof:geomhash":"b3e869a08ccb6e08762478fd57fa04a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     25.33821,
     57.52056999999999
 ],
-  "geometry": {"coordinates":[25.33821,57.52056999999999],"type":"Point"}
+  "geometry": {"coordinates":[25.33821,57.52057],"type":"Point"}
 }

@@ -68,7 +68,7 @@
         "wk:page":"Skaistkalne"
     },
     "wof:country":"LV",
-    "wof:geomhash":"79350063070fc8f811426caf4995deed",
+    "wof:geomhash":"cf60aa2ad8798d9c7102d650db98cfec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     24.64557000000001,
     56.38155
 ],
-  "geometry": {"coordinates":[24.64557000000001,56.38155],"type":"Point"}
+  "geometry": {"coordinates":[24.64557,56.38155],"type":"Point"}
 }

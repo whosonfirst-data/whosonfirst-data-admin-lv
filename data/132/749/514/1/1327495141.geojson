@@ -42,7 +42,7 @@
         "wk:page":"Sarka%C5%86i_parish"
     },
     "wof:country":"LV",
-    "wof:geomhash":"f4eecb32d52b8cd2008fcb3d5f2802b2",
+    "wof:geomhash":"3cbe9806ef63a5456575a4241bf27d89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,5 +67,5 @@
     26.26106,
     56.87954000000001
 ],
-  "geometry": {"coordinates":[26.26106,56.87954000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.26106,56.87954],"type":"Point"}
 }

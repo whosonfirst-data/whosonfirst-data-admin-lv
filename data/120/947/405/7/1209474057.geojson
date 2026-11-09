@@ -61,7 +61,7 @@
         "wk:page":"Lielirbe"
     },
     "wof:country":"LV",
-    "wof:geomhash":"91939e6e974c83adbcf4d41716e935c2",
+    "wof:geomhash":"23a40fc49c98e8685a5a48eb285fcfef",
     "wof:hierarchy":[
         {
             "country_id":85633279,
@@ -84,5 +84,5 @@
     22.10672000000001,
     57.61966999999999
 ],
-  "geometry": {"coordinates":[22.10672000000001,57.61966999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.10672,57.61967],"type":"Point"}
 }

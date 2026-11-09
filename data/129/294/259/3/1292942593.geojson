@@ -82,7 +82,7 @@
         "wk:page":"Jaunpiebalga"
     },
     "wof:country":"LV",
-    "wof:geomhash":"53eeae4fc2286eff2caa542805e9d9a8",
+    "wof:geomhash":"a8ceba3be6be9014be4e0a4633c1075f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     26.03333,
     57.18333000000001
 ],
-  "geometry": {"coordinates":[26.03333,57.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.03333,57.18333],"type":"Point"}
 }

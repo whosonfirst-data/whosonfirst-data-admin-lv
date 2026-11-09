@@ -69,7 +69,7 @@
         "wk:page":"Zelme%C5%86i"
     },
     "wof:country":"LV",
-    "wof:geomhash":"f13408291f2dcdcb7e11ac5da019d85b",
+    "wof:geomhash":"ca56e0473026d9de7aecd753ebd2566d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     23.35194,
     56.45166999999999
 ],
-  "geometry": {"coordinates":[23.35194,56.45166999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.35194,56.45167],"type":"Point"}
 }

@@ -74,7 +74,7 @@
         "wk:page":"Lejasciems"
     },
     "wof:country":"LV",
-    "wof:geomhash":"ed7ea5036ec978ed12df0c802cafb83f",
+    "wof:geomhash":"84cafa25a0b58ef9febab3bed15f9465",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     26.57679000000001,
     57.28025
 ],
-  "geometry": {"coordinates":[26.57679000000001,57.28025],"type":"Point"}
+  "geometry": {"coordinates":[26.57679,57.28025],"type":"Point"}
 }

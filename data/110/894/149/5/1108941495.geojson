@@ -40,7 +40,7 @@
     "wof:concordances":{},
     "wof:country":"LV",
     "wof:created":1491362465,
-    "wof:geomhash":"1ff6f57189ee0bf08417ffa1c39489a3",
+    "wof:geomhash":"ab40063a322b75ba65e63ace414b1633",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,5 +66,5 @@
     24.14862859908328,
     56.91307288400925
 ],
-  "geometry": {"coordinates":[24.14862859908328,56.91307288400925],"type":"Point"}
+  "geometry": {"coordinates":[24.148629,56.913073],"type":"Point"}
 }

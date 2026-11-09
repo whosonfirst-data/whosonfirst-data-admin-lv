@@ -47,7 +47,7 @@
         "wk:page":"Alm%C4%81le"
     },
     "wof:country":"LV",
-    "wof:geomhash":"91c1fa99000ac59cdc286799e71ab0f3",
+    "wof:geomhash":"d5496ba41bcd35dbaac0e73ba1648266",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     21.63508,
     56.98063000000001
 ],
-  "geometry": {"coordinates":[21.63508,56.98063000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.63508,56.98063],"type":"Point"}
 }

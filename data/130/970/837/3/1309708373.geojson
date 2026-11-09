@@ -51,7 +51,7 @@
         "wk:page":"Zebrene"
     },
     "wof:country":"LV",
-    "wof:geomhash":"e27b579d482de50446dd26d52b50a4f3",
+    "wof:geomhash":"95f3c549dbf162a1afde7699512a3d32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     22.88383,
     56.60373000000001
 ],
-  "geometry": {"coordinates":[22.88383,56.60373000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.88383,56.60373],"type":"Point"}
 }

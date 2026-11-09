@@ -67,7 +67,7 @@
         "wk:page":"Pasiene"
     },
     "wof:country":"LV",
-    "wof:geomhash":"fa178662ba072e5e39b460867b8479c3",
+    "wof:geomhash":"ca341a1f29959f4d2a7e0a74915b73c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     28.15779,
     56.29058000000001
 ],
-  "geometry": {"coordinates":[28.15779,56.29058000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.15779,56.29058],"type":"Point"}
 }

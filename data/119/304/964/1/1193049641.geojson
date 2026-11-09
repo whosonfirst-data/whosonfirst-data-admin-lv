@@ -76,7 +76,7 @@
         "wk:page":"N%C4%ABtaure"
     },
     "wof:country":"LV",
-    "wof:geomhash":"c095d548867c1df350b7c309e2dcfa74",
+    "wof:geomhash":"89c5ad538b9673249147ef8fff67a07a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     25.19234,
     57.06948000000001
 ],
-  "geometry": {"coordinates":[25.19234,57.06948000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.19234,57.06948],"type":"Point"}
 }

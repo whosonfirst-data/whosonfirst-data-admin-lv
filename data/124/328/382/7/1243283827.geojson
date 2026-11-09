@@ -52,7 +52,7 @@
         "wk:page":"Naud%C4%ABte"
     },
     "wof:country":"LV",
-    "wof:geomhash":"861eb169b186ec3ee44acb49e5979d95",
+    "wof:geomhash":"67521712655ed6134c49363c69f5513b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     23.19528,
     56.53471999999999
 ],
-  "geometry": {"coordinates":[23.19528,56.53471999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.19528,56.53472],"type":"Point"}
 }

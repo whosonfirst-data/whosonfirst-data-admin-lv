@@ -49,7 +49,7 @@
         "wk:page":"S%C4%ABpele"
     },
     "wof:country":"LV",
-    "wof:geomhash":"c20861ba5440bd77be434cd4eb021e7d",
+    "wof:geomhash":"6fabac8f05effc390509348b3417e1e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     23.3,
     56.68333000000001
 ],
-  "geometry": {"coordinates":[23.3,56.68333000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.3,56.68333],"type":"Point"}
 }

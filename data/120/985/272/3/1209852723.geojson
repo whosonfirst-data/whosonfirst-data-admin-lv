@@ -48,7 +48,7 @@
         "wk:page":"Rosme"
     },
     "wof:country":"LV",
-    "wof:geomhash":"6fa33979566ce1df9ccae1e5b918bd7f",
+    "wof:geomhash":"7eabc5be6abe71005165e3a050096c92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,5 +73,5 @@
     24.19695,
     56.53713000000001
 ],
-  "geometry": {"coordinates":[24.19695,56.53713000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.19695,56.53713],"type":"Point"}
 }

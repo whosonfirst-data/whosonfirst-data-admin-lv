@@ -81,7 +81,7 @@
         "wk:page":"Baltinava"
     },
     "wof:country":"LV",
-    "wof:geomhash":"78a2bb0d73d06aa5b4cb9b56f5a00791",
+    "wof:geomhash":"f10cdae4b9a95b9b20cedfa7a13a8c44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,5 +106,5 @@
     27.64401,
     56.94394000000001
 ],
-  "geometry": {"coordinates":[27.64401,56.94394000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.64401,56.94394],"type":"Point"}
 }

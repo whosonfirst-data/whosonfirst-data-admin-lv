@@ -55,7 +55,7 @@
         "wk:page":"M%C4%81rciena_parish"
     },
     "wof:country":"LV",
-    "wof:geomhash":"51734b23128d2fab0141cdbe7a59d9ed",
+    "wof:geomhash":"83fa1deb99bfecbb251d32cf864ca9f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     26.1018,
     56.77314000000001
 ],
-  "geometry": {"coordinates":[26.1018,56.77314000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.1018,56.77314],"type":"Point"}
 }

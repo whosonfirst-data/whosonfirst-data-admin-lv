@@ -73,7 +73,7 @@
         "wk:page":"Saliena"
     },
     "wof:country":"LV",
-    "wof:geomhash":"811f8a64cdacbfac8ad1e20e99d7c0fb",
+    "wof:geomhash":"87d7093f55444ca9717b6ebaff3de2d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     26.87512000000001,
     55.82354
 ],
-  "geometry": {"coordinates":[26.87512000000001,55.82354],"type":"Point"}
+  "geometry": {"coordinates":[26.87512,55.82354],"type":"Point"}
 }

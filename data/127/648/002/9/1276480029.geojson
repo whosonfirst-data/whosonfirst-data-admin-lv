@@ -68,7 +68,7 @@
         "wk:page":"Lie%C4%A3i"
     },
     "wof:country":"LV",
-    "wof:geomhash":"1c0a024a01b5a62450e22adeaeb2762a",
+    "wof:geomhash":"17d76dfb7e74d058806ca0f2432bb95f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     21.33399,
     56.58173000000001
 ],
-  "geometry": {"coordinates":[21.33399,56.58173000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.33399,56.58173],"type":"Point"}
 }

@@ -56,7 +56,7 @@
         "wk:page":"Lauderi"
     },
     "wof:country":"LV",
-    "wof:geomhash":"dc3832523ae00c843a377f71c8f925e4",
+    "wof:geomhash":"0688b1f120ddfa15cce3fcb782d9ab4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     27.98432,
     56.33453000000001
 ],
-  "geometry": {"coordinates":[27.98432,56.33453000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.98432,56.33453],"type":"Point"}
 }

@@ -76,7 +76,7 @@
         "wk:page":"Rucava"
     },
     "wof:country":"LV",
-    "wof:geomhash":"a45dbe958117c6940c338677ef34b405",
+    "wof:geomhash":"80696f09ac515780ec66cdb0a2dc4b91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,5 +103,5 @@
     21.16156,
     56.16314000000001
 ],
-  "geometry": {"coordinates":[21.16156,56.16314000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.16156,56.16314],"type":"Point"}
 }

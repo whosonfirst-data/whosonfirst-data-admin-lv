@@ -50,7 +50,7 @@
         "wk:page":"Degumui%C5%BEa"
     },
     "wof:country":"LV",
-    "wof:geomhash":"690d087d4e10c1cb6836d02ab6f78694",
+    "wof:geomhash":"8df941846ecac89831703e159faa6668",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     23.4475,
     56.54083000000001
 ],
-  "geometry": {"coordinates":[23.4475,56.54083000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.4475,56.54083],"type":"Point"}
 }

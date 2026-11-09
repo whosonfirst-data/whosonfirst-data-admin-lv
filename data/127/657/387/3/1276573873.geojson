@@ -64,7 +64,7 @@
         "wk:page":"B%C4%93rze_Parish"
     },
     "wof:country":"LV",
-    "wof:geomhash":"39d990c98cff84d5c41603393c264cdb",
+    "wof:geomhash":"224ab59ae6b47422e0ab76e82f49c429",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     23.43885,
     56.68573000000001
 ],
-  "geometry": {"coordinates":[23.43885,56.68573000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.43885,56.68573],"type":"Point"}
 }

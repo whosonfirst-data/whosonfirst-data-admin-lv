@@ -74,7 +74,7 @@
         "wk:page":"Vecv%C4%81rkava"
     },
     "wof:country":"LV",
-    "wof:geomhash":"5dd7acf7899fe0069b154ba5482b04c4",
+    "wof:geomhash":"050f294ad556882814ee455abdb36c11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     26.50811,
     56.19838000000001
 ],
-  "geometry": {"coordinates":[26.50811,56.19838000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.50811,56.19838],"type":"Point"}
 }

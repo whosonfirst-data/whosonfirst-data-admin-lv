@@ -45,7 +45,7 @@
         "gn:id":457678
     },
     "wof:country":"LV",
-    "wof:geomhash":"c45a1b68a950a84431be0f21d884b080",
+    "wof:geomhash":"b98cc659e9c6398fdd9cf0054c7100f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,5 +70,5 @@
     26.6087,
     56.73549000000001
 ],
-  "geometry": {"coordinates":[26.6087,56.73549000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.6087,56.73549],"type":"Point"}
 }

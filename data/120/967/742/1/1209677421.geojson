@@ -56,7 +56,7 @@
         "wk:page":"Patkule"
     },
     "wof:country":"LV",
-    "wof:geomhash":"c01972e19b51d35a6c5a44175ea6e604",
+    "wof:geomhash":"47e88e6833b013318f2d2a9e3d5eed6e",
     "wof:hierarchy":[
         {
             "country_id":85633279,
@@ -79,5 +79,5 @@
     26.29404000000001,
     56.91
 ],
-  "geometry": {"coordinates":[26.29404000000001,56.91],"type":"Point"}
+  "geometry": {"coordinates":[26.29404,56.91],"type":"Point"}
 }
