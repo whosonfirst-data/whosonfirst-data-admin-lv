@@ -111,7 +111,6 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        101913043,
         85633279,
         85685855
     ],
@@ -127,7 +126,6 @@
         {
             "continent_id":102191581,
             "country_id":85633279,
-            "locality_id":101913043,
             "region_id":85685855
         }
     ],
