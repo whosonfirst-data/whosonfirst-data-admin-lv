@@ -1,0 +1,72 @@
+{
+  "id": 9895037465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.02375,57.46584,27.02375,57.46584",
+    "geom:latitude":57.46584,
+    "geom:longitude":27.02375,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 459711: name \"Grigu\u013ci\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/459711"
+        },
+        {
+            "citation":"GeoNames populated place 459711: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/459711"
+        },
+        {
+            "citation":"GeoNames populated place 459711: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/459711"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686279 (Aluksnes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686279,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459711
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c3d75c09e40584b0f57d50eaf498631b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037465,
+            "region_id":85686279
+        }
+    ],
+    "wof:id":9895037465,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Grigu\u013ci",
+    "wof:parent_id":85686279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.02375,
+    57.46584,
+    27.02375,
+    57.46584
+],
+  "geometry": {"coordinates":[27.02375,57.46584],"type":"Point"}
+}

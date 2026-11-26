@@ -1,0 +1,72 @@
+{
+  "id": 9895040510,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.47188,57.40122,25.47188,57.40122",
+    "geom:latitude":57.40122,
+    "geom:longitude":25.47188,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147988: name \"Sarka\u0146i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147988"
+        },
+        {
+            "citation":"GeoNames populated place 13147988: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147988"
+        },
+        {
+            "citation":"GeoNames populated place 13147988: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147988"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686193 (Cesu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686193,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147988
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a6481f08ca59760430220d8e6343df14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040510,
+            "region_id":85686193
+        }
+    ],
+    "wof:id":9895040510,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Sarka\u0146i",
+    "wof:parent_id":85686193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.47188,
+    57.40122,
+    25.47188,
+    57.40122
+],
+  "geometry": {"coordinates":[25.47188,57.40122],"type":"Point"}
+}

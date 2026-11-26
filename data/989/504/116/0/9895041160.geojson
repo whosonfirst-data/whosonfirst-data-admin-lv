@@ -1,0 +1,72 @@
+{
+  "id": 9895041160,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.76522,56.62984,27.76522,56.62984",
+    "geom:latitude":56.62984,
+    "geom:longitude":27.76522,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148646: name \"O\u017eorgi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148646"
+        },
+        {
+            "citation":"GeoNames populated place 13148646: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148646"
+        },
+        {
+            "citation":"GeoNames populated place 13148646: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148646"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686037 (Ludzas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686037,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148646
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"4eace061aba824720f42c0d598086e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895041160,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":9895041160,
+    "wof:lastmodified":1795734962,
+    "wof:name":"O\u017eorgi",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.76522,
+    56.62984,
+    27.76522,
+    56.62984
+],
+  "geometry": {"coordinates":[27.76522,56.62984],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895040056,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.24161,56.48942,26.24161,56.48942",
+    "geom:latitude":56.48942,
+    "geom:longitude":26.24161,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147527: name \"Vu\u0161k\u0101rnieki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147527"
+        },
+        {
+            "citation":"GeoNames populated place 13147527: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147527"
+        },
+        {
+            "citation":"GeoNames populated place 13147527: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147527"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685943 (Livanu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685943,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147527
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"cbaa2329d23e8700388f6bfafa1632b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040056,
+            "region_id":85685943
+        }
+    ],
+    "wof:id":9895040056,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Vu\u0161k\u0101rnieki",
+    "wof:parent_id":85685943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.24161,
+    56.48942,
+    26.24161,
+    56.48942
+],
+  "geometry": {"coordinates":[26.24161,56.48942],"type":"Point"}
+}

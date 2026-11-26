@@ -1,0 +1,72 @@
+{
+  "id": 9895041018,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.83585,56.12646,26.83585,56.12646",
+    "geom:latitude":56.12646,
+    "geom:longitude":26.83585,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148502: name \"Vordovka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148502"
+        },
+        {
+            "citation":"GeoNames populated place 13148502: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148502"
+        },
+        {
+            "citation":"GeoNames populated place 13148502: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148502"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008382 (Aug\u0161daugavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        102191581,
+        9895008382
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148502
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"0e42808550ac4d3b61fd20fde0edcc6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895041018,
+            "region_id":9895008382
+        }
+    ],
+    "wof:id":9895041018,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Vordovka",
+    "wof:parent_id":9895008382,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.83585,
+    56.12646,
+    26.83585,
+    56.12646
+],
+  "geometry": {"coordinates":[26.83585,56.12646],"type":"Point"}
+}

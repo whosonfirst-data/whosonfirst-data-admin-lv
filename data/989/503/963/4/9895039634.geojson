@@ -1,0 +1,72 @@
+{
+  "id": 9895039634,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.42731,55.9257,27.42731,55.9257",
+    "geom:latitude":55.9257,
+    "geom:longitude":27.42731,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147100: name \"Pakuli\u0161ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147100"
+        },
+        {
+            "citation":"GeoNames populated place 13147100: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147100"
+        },
+        {
+            "citation":"GeoNames populated place 13147100: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147100"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685833 (Kraslavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685833,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147100
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"de3e938d7112556eee4ceb678e3769e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039634,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":9895039634,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Pakuli\u0161ki",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.42731,
+    55.9257,
+    27.42731,
+    55.9257
+],
+  "geometry": {"coordinates":[27.42731,55.9257],"type":"Point"}
+}

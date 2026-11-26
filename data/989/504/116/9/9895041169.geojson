@@ -1,0 +1,72 @@
+{
+  "id": 9895041169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.88141,56.01571,26.88141,56.01571",
+    "geom:latitude":56.01571,
+    "geom:longitude":26.88141,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148655: name \"M\u012b\u017eus\u0101ta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148655"
+        },
+        {
+            "citation":"GeoNames populated place 13148655: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148655"
+        },
+        {
+            "citation":"GeoNames populated place 13148655: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148655"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008382 (Aug\u0161daugavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        102191581,
+        9895008382
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148655
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"14d309a101fe40355032fd015c153892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895041169,
+            "region_id":9895008382
+        }
+    ],
+    "wof:id":9895041169,
+    "wof:lastmodified":1795734962,
+    "wof:name":"M\u012b\u017eus\u0101ta",
+    "wof:parent_id":9895008382,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.88141,
+    56.01571,
+    26.88141,
+    56.01571
+],
+  "geometry": {"coordinates":[26.88141,56.01571],"type":"Point"}
+}

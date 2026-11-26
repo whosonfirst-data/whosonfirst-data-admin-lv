@@ -1,0 +1,72 @@
+{
+  "id": 9895041344,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.60321,56.7381,21.60321,56.7381",
+    "geom:latitude":56.7381,
+    "geom:longitude":21.60321,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148833: name \"\u0160takeldanga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148833"
+        },
+        {
+            "citation":"GeoNames populated place 13148833: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148833"
+        },
+        {
+            "citation":"GeoNames populated place 13148833: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148833"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008381 (Dienvidkurzemes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        102191581,
+        9895008381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148833
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"4fa85d24e6dffab6a66b6ad5ba0203f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895041344,
+            "region_id":9895008381
+        }
+    ],
+    "wof:id":9895041344,
+    "wof:lastmodified":1795734962,
+    "wof:name":"\u0160takeldanga",
+    "wof:parent_id":9895008381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.60321,
+    56.7381,
+    21.60321,
+    56.7381
+],
+  "geometry": {"coordinates":[21.60321,56.7381],"type":"Point"}
+}

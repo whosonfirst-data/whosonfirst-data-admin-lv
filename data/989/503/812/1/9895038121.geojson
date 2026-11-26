@@ -1,0 +1,72 @@
+{
+  "id": 9895038121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.75126,56.10515,26.75126,56.10515",
+    "geom:latitude":56.10515,
+    "geom:longitude":26.75126,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145576: name \"Pirm\u0101 Borovka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145576"
+        },
+        {
+            "citation":"GeoNames populated place 13145576: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145576"
+        },
+        {
+            "citation":"GeoNames populated place 13145576: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145576"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008382 (Aug\u0161daugavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        102191581,
+        9895008382
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145576
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"fbf301b1b4516367308e3a79917e8603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038121,
+            "region_id":9895008382
+        }
+    ],
+    "wof:id":9895038121,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Pirm\u0101 Borovka",
+    "wof:parent_id":9895008382,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.75126,
+    56.10515,
+    26.75126,
+    56.10515
+],
+  "geometry": {"coordinates":[26.75126,56.10515],"type":"Point"}
+}

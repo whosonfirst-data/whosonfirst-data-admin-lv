@@ -1,0 +1,72 @@
+{
+  "id": 9895038710,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4394,55.8379,27.4394,55.8379",
+    "geom:latitude":55.8379,
+    "geom:longitude":27.4394,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146168: name \"Zagorci\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146168"
+        },
+        {
+            "citation":"GeoNames populated place 13146168: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146168"
+        },
+        {
+            "citation":"GeoNames populated place 13146168: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146168"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685833 (Kraslavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685833,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146168
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"86e16d1ab093bd3f1dea543205877456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038710,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":9895038710,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Zagorci",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4394,
+    55.8379,
+    27.4394,
+    55.8379
+],
+  "geometry": {"coordinates":[27.4394,55.8379],"type":"Point"}
+}

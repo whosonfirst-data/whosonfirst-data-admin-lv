@@ -1,0 +1,72 @@
+{
+  "id": 9895040318,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.65029,57.24157,22.65029,57.24157",
+    "geom:latitude":57.24157,
+    "geom:longitude":22.65029,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147793: name \"St\u016br\u012b\u0161i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147793"
+        },
+        {
+            "citation":"GeoNames populated place 13147793: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147793"
+        },
+        {
+            "citation":"GeoNames populated place 13147793: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147793"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686157 (Talsu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686157,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147793
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"09cf2fab47aee8f0a7c20f6cb25d497b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040318,
+            "region_id":85686157
+        }
+    ],
+    "wof:id":9895040318,
+    "wof:lastmodified":1795734962,
+    "wof:name":"St\u016br\u012b\u0161i",
+    "wof:parent_id":85686157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.65029,
+    57.24157,
+    22.65029,
+    57.24157
+],
+  "geometry": {"coordinates":[22.65029,57.24157],"type":"Point"}
+}

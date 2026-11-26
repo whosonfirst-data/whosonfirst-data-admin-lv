@@ -1,0 +1,72 @@
+{
+  "id": 9895039408,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8192,56.09716,26.8192,56.09716",
+    "geom:latitude":56.09716,
+    "geom:longitude":26.8192,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146872: name \"Litavnieki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146872"
+        },
+        {
+            "citation":"GeoNames populated place 13146872: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146872"
+        },
+        {
+            "citation":"GeoNames populated place 13146872: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146872"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008382 (Aug\u0161daugavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        102191581,
+        9895008382
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146872
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b309d2d2d8e72eca25605c3ed9cab07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039408,
+            "region_id":9895008382
+        }
+    ],
+    "wof:id":9895039408,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Litavnieki",
+    "wof:parent_id":9895008382,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8192,
+    56.09716,
+    26.8192,
+    56.09716
+],
+  "geometry": {"coordinates":[26.8192,56.09716],"type":"Point"}
+}

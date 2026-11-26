@@ -1,0 +1,72 @@
+{
+  "id": 9895037688,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.42562,56.64313,27.42562,56.64313",
+    "geom:latitude":56.64313,
+    "geom:longitude":27.42562,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12008935: name \"Trikimi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12008935"
+        },
+        {
+            "citation":"GeoNames populated place 12008935: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12008935"
+        },
+        {
+            "citation":"GeoNames populated place 12008935: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12008935"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12008935
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"3bc3bf465a8ab829a6389e420fcd7c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037688,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895037688,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Trikimi",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.42562,
+    56.64313,
+    27.42562,
+    56.64313
+],
+  "geometry": {"coordinates":[27.42562,56.64313],"type":"Point"}
+}

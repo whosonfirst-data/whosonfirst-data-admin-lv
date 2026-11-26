@@ -1,0 +1,72 @@
+{
+  "id": 9895041252,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.90503,56.3766,23.90503,56.3766",
+    "geom:latitude":56.3766,
+    "geom:longitude":23.90503,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148740: name \"T\u012brumi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148740"
+        },
+        {
+            "citation":"GeoNames populated place 13148740: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148740"
+        },
+        {
+            "citation":"GeoNames populated place 13148740: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148740"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685851 (Bauskas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685851,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148740
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6a50052a54d665bfb2f449074be2c247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895041252,
+            "region_id":85685851
+        }
+    ],
+    "wof:id":9895041252,
+    "wof:lastmodified":1795734962,
+    "wof:name":"T\u012brumi",
+    "wof:parent_id":85685851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.90503,
+    56.3766,
+    23.90503,
+    56.3766
+],
+  "geometry": {"coordinates":[23.90503,56.3766],"type":"Point"}
+}

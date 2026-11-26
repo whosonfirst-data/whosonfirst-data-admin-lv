@@ -1,0 +1,72 @@
+{
+  "id": 9895038286,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18858,56.53968,21.18858,56.53968",
+    "geom:latitude":56.53968,
+    "geom:longitude":21.18858,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145742: name \"Robe\u017enieki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145742"
+        },
+        {
+            "citation":"GeoNames populated place 13145742: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145742"
+        },
+        {
+            "citation":"GeoNames populated place 13145742: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145742"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008381 (Dienvidkurzemes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        102191581,
+        9895008381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145742
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c22f57f2be163ca65a4327593cb75a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038286,
+            "region_id":9895008381
+        }
+    ],
+    "wof:id":9895038286,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Robe\u017enieki",
+    "wof:parent_id":9895008381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18858,
+    56.53968,
+    21.18858,
+    56.53968
+],
+  "geometry": {"coordinates":[21.18858,56.53968],"type":"Point"}
+}

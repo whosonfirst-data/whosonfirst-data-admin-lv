@@ -1,0 +1,72 @@
+{
+  "id": 9895039960,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.97693,56.08578,26.97693,56.08578",
+    "geom:latitude":56.08578,
+    "geom:longitude":26.97693,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147430: name \"Peski\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147430"
+        },
+        {
+            "citation":"GeoNames populated place 13147430: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147430"
+        },
+        {
+            "citation":"GeoNames populated place 13147430: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147430"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685833 (Kraslavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685833,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147430
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a78b02faad0f1fd2409e9507184f56c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039960,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":9895039960,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Peski",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.97693,
+    56.08578,
+    26.97693,
+    56.08578
+],
+  "geometry": {"coordinates":[26.97693,56.08578],"type":"Point"}
+}

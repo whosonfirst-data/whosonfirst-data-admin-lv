@@ -1,0 +1,72 @@
+{
+  "id": 9895038126,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.18724,56.84975,24.18724,56.84975",
+    "geom:latitude":56.84975,
+    "geom:longitude":24.18724,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145581: name \"Krogsils\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145581"
+        },
+        {
+            "citation":"GeoNames populated place 13145581: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145581"
+        },
+        {
+            "citation":"GeoNames populated place 13145581: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145581"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685999 (Kekavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685999,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145581
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"bf1f4d8b761458f9d6fc8c00c56b0d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038126,
+            "region_id":85685999
+        }
+    ],
+    "wof:id":9895038126,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Krogsils",
+    "wof:parent_id":85685999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18724,
+    56.84975,
+    24.18724,
+    56.84975
+],
+  "geometry": {"coordinates":[24.18724,56.84975],"type":"Point"}
+}

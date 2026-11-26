@@ -1,0 +1,72 @@
+{
+  "id": 9895039000,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.54285,56.88101,24.54285,56.88101",
+    "geom:latitude":56.88101,
+    "geom:longitude":24.54285,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146459: name \"Cepl\u012b\u0161i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146459"
+        },
+        {
+            "citation":"GeoNames populated place 13146459: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146459"
+        },
+        {
+            "citation":"GeoNames populated place 13146459: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146459"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686079 (Ogres), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686079,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146459
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"59c100735ecc029a4f368acf92104ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039000,
+            "region_id":85686079
+        }
+    ],
+    "wof:id":9895039000,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Cepl\u012b\u0161i",
+    "wof:parent_id":85686079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.54285,
+    56.88101,
+    24.54285,
+    56.88101
+],
+  "geometry": {"coordinates":[24.54285,56.88101],"type":"Point"}
+}

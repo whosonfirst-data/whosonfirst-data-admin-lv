@@ -1,0 +1,72 @@
+{
+  "id": 9895037533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1096,56.52915,27.1096,56.52915",
+    "geom:latitude":56.52915,
+    "geom:longitude":27.1096,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12005671: name \"Apari\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12005671"
+        },
+        {
+            "citation":"GeoNames populated place 12005671: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12005671"
+        },
+        {
+            "citation":"GeoNames populated place 12005671: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12005671"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12005671
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"58172046285a26cd84d8f309b6c5ff3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037533,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895037533,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Apari",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1096,
+    56.52915,
+    27.1096,
+    56.52915
+],
+  "geometry": {"coordinates":[27.1096,56.52915],"type":"Point"}
+}

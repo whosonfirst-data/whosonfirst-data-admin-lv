@@ -1,0 +1,72 @@
+{
+  "id": 9895038409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.333,56.253,27.333,56.253",
+    "geom:latitude":56.253,
+    "geom:longitude":27.333,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145865: name \"Pl\u012bna Romani\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145865"
+        },
+        {
+            "citation":"GeoNames populated place 13145865: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145865"
+        },
+        {
+            "citation":"GeoNames populated place 13145865: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145865"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145865
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"0327660429e73050a2abb1573f8f4a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038409,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895038409,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Pl\u012bna Romani",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.333,
+    56.253,
+    27.333,
+    56.253
+],
+  "geometry": {"coordinates":[27.333,56.253],"type":"Point"}
+}

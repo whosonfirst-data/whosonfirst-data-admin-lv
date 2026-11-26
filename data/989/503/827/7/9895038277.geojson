@@ -1,0 +1,72 @@
+{
+  "id": 9895038277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.91366,56.25759,27.91366,56.25759",
+    "geom:latitude":56.25759,
+    "geom:longitude":27.91366,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145733: name \"Bui\u013cova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145733"
+        },
+        {
+            "citation":"GeoNames populated place 13145733: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145733"
+        },
+        {
+            "citation":"GeoNames populated place 13145733: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145733"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686037 (Ludzas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686037,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145733
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6a27966e3522feea4b5875f0feeaf964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038277,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":9895038277,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Bui\u013cova",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.91366,
+    56.25759,
+    27.91366,
+    56.25759
+],
+  "geometry": {"coordinates":[27.91366,56.25759],"type":"Point"}
+}

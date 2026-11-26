@@ -1,0 +1,72 @@
+{
+  "id": 9895039867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.016,56.56103,28.016,56.56103",
+    "geom:latitude":56.56103,
+    "geom:longitude":28.016,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147336: name \"\u010ceverova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147336"
+        },
+        {
+            "citation":"GeoNames populated place 13147336: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147336"
+        },
+        {
+            "citation":"GeoNames populated place 13147336: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147336"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686037 (Ludzas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686037,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147336
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"98d0846c48f28ebf5e1934f28ee14fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039867,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":9895039867,
+    "wof:lastmodified":1795734962,
+    "wof:name":"\u010ceverova",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.016,
+    56.56103,
+    28.016,
+    56.56103
+],
+  "geometry": {"coordinates":[28.016,56.56103],"type":"Point"}
+}

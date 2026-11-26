@@ -1,0 +1,72 @@
+{
+  "id": 9895038932,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5206,55.8522,27.5206,55.8522",
+    "geom:latitude":55.8522,
+    "geom:longitude":27.5206,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146391: name \"Meln\u0101\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146391"
+        },
+        {
+            "citation":"GeoNames populated place 13146391: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146391"
+        },
+        {
+            "citation":"GeoNames populated place 13146391: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146391"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685833 (Kraslavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685833,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146391
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"94c50ac7ce62151b20285a7db0d6f4ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038932,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":9895038932,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Meln\u0101",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5206,
+    55.8522,
+    27.5206,
+    55.8522
+],
+  "geometry": {"coordinates":[27.5206,55.8522],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895041428,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.64391,56.2882,27.64391,56.2882",
+    "geom:latitude":56.2882,
+    "geom:longitude":27.64391,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13456931: name \"Vai\u0161\u013ci\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13456931"
+        },
+        {
+            "citation":"GeoNames populated place 13456931: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13456931"
+        },
+        {
+            "citation":"GeoNames populated place 13456931: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13456931"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13456931
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"dd57ec08fd4959bb2d9113e7e0dc33fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895041428,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895041428,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Vai\u0161\u013ci",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.64391,
+    56.2882,
+    27.64391,
+    56.2882
+],
+  "geometry": {"coordinates":[27.64391,56.2882],"type":"Point"}
+}

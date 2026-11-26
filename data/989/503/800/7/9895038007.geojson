@@ -1,0 +1,72 @@
+{
+  "id": 9895038007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.07082,56.81733,24.07082,56.81733",
+    "geom:latitude":56.81733,
+    "geom:longitude":24.07082,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145461: name \"Ap\u0161ukalni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145461"
+        },
+        {
+            "citation":"GeoNames populated place 13145461: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145461"
+        },
+        {
+            "citation":"GeoNames populated place 13145461: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145461"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685981 (Olaines), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685981,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145461
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d37e5f56879ec834063be9b05e4f677e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038007,
+            "region_id":85685981
+        }
+    ],
+    "wof:id":9895038007,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ap\u0161ukalni",
+    "wof:parent_id":85685981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.07082,
+    56.81733,
+    24.07082,
+    56.81733
+],
+  "geometry": {"coordinates":[24.07082,56.81733],"type":"Point"}
+}

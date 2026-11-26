@@ -1,0 +1,72 @@
+{
+  "id": 9895040393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.00669,56.32872,27.00669,56.32872",
+    "geom:latitude":56.32872,
+    "geom:longitude":27.00669,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147869: name \"Novokiri\u013cina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147869"
+        },
+        {
+            "citation":"GeoNames populated place 13147869: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147869"
+        },
+        {
+            "citation":"GeoNames populated place 13147869: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147869"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147869
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"fb82c8bd3296990ddb6ce81e2b6b15be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040393,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895040393,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Novokiri\u013cina",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.00669,
+    56.32872,
+    27.00669,
+    56.32872
+],
+  "geometry": {"coordinates":[27.00669,56.32872],"type":"Point"}
+}

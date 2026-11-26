@@ -1,0 +1,72 @@
+{
+  "id": 9895039242,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.61638,56.9537,27.61638,56.9537",
+    "geom:latitude":56.9537,
+    "geom:longitude":27.61638,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146703: name \"Kei\u0161i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146703"
+        },
+        {
+            "citation":"GeoNames populated place 13146703: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146703"
+        },
+        {
+            "citation":"GeoNames populated place 13146703: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146703"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686235 (Balvu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686235,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146703
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"df4a9afa6f36376994bdc8ad72a0e80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039242,
+            "region_id":85686235
+        }
+    ],
+    "wof:id":9895039242,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Kei\u0161i",
+    "wof:parent_id":85686235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.61638,
+    56.9537,
+    27.61638,
+    56.9537
+],
+  "geometry": {"coordinates":[27.61638,56.9537],"type":"Point"}
+}

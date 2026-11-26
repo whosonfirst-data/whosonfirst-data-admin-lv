@@ -1,0 +1,72 @@
+{
+  "id": 9895037920,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.49351,57.03491,27.49351,57.03491",
+    "geom:latitude":57.03491,
+    "geom:longitude":27.49351,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145374: name \"Akme\u0146sala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145374"
+        },
+        {
+            "citation":"GeoNames populated place 13145374: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145374"
+        },
+        {
+            "citation":"GeoNames populated place 13145374: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145374"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686235 (Balvu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686235,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145374
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f606e24b8b9f154ee6a5686f804dda55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037920,
+            "region_id":85686235
+        }
+    ],
+    "wof:id":9895037920,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Akme\u0146sala",
+    "wof:parent_id":85686235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.49351,
+    57.03491,
+    27.49351,
+    57.03491
+],
+  "geometry": {"coordinates":[27.49351,57.03491],"type":"Point"}
+}

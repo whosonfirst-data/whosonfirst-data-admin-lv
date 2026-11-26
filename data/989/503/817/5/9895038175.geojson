@@ -1,0 +1,72 @@
+{
+  "id": 9895038175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.66133,56.37583,26.66133,56.37583",
+    "geom:latitude":56.37583,
+    "geom:longitude":26.66133,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145631: name \"Jezufinova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145631"
+        },
+        {
+            "citation":"GeoNames populated place 13145631: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145631"
+        },
+        {
+            "citation":"GeoNames populated place 13145631: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145631"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685929 (Preilu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685929,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145631
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"739a7ba8f8b852f160011f27b1ec2f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038175,
+            "region_id":85685929
+        }
+    ],
+    "wof:id":9895038175,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Jezufinova",
+    "wof:parent_id":85685929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.66133,
+    56.37583,
+    26.66133,
+    56.37583
+],
+  "geometry": {"coordinates":[26.66133,56.37583],"type":"Point"}
+}

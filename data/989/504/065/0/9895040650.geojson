@@ -1,0 +1,72 @@
+{
+  "id": 9895040650,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.62558,56.35024,26.62558,56.35024",
+    "geom:latitude":56.35024,
+    "geom:longitude":26.62558,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148130: name \"Balde\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148130"
+        },
+        {
+            "citation":"GeoNames populated place 13148130: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148130"
+        },
+        {
+            "citation":"GeoNames populated place 13148130: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148130"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685929 (Preilu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685929,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148130
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"616ce404cf33e55bc56292a162c51818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040650,
+            "region_id":85685929
+        }
+    ],
+    "wof:id":9895040650,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Balde",
+    "wof:parent_id":85685929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.62558,
+    56.35024,
+    26.62558,
+    56.35024
+],
+  "geometry": {"coordinates":[26.62558,56.35024],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895038223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.00599,56.0972,27.00599,56.0972",
+    "geom:latitude":56.0972,
+    "geom:longitude":27.00599,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145679: name \"Sila Dauk\u0161ti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145679"
+        },
+        {
+            "citation":"GeoNames populated place 13145679: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145679"
+        },
+        {
+            "citation":"GeoNames populated place 13145679: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145679"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685833 (Kraslavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685833,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145679
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"527b55977cc5335ac86515cb36bbbe16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038223,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":9895038223,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Sila Dauk\u0161ti",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.00599,
+    56.0972,
+    27.00599,
+    56.0972
+],
+  "geometry": {"coordinates":[27.00599,56.0972],"type":"Point"}
+}

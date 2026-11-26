@@ -1,0 +1,72 @@
+{
+  "id": 9895037547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.14642,56.66259,27.14642,56.66259",
+    "geom:latitude":56.66259,
+    "geom:longitude":27.14642,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12005696: name \"Zimkas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12005696"
+        },
+        {
+            "citation":"GeoNames populated place 12005696: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12005696"
+        },
+        {
+            "citation":"GeoNames populated place 12005696: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12005696"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12005696
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"5ff34c01aa2db77fb0999e9d436f9cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037547,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895037547,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Zimkas",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.14642,
+    56.66259,
+    27.14642,
+    56.66259
+],
+  "geometry": {"coordinates":[27.14642,56.66259],"type":"Point"}
+}

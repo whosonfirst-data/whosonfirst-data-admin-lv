@@ -1,0 +1,72 @@
+{
+  "id": 9895039128,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92836,56.94054,21.92836,56.94054",
+    "geom:latitude":56.94054,
+    "geom:longitude":21.92836,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146587: name \"Up\u012b\u0161kalns\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146587"
+        },
+        {
+            "citation":"GeoNames populated place 13146587: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146587"
+        },
+        {
+            "citation":"GeoNames populated place 13146587: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146587"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686043 (Kuldigas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686043,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146587
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f6209304a9e6fb3a175dd7acaa5ed900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039128,
+            "region_id":85686043
+        }
+    ],
+    "wof:id":9895039128,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Up\u012b\u0161kalns",
+    "wof:parent_id":85686043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92836,
+    56.94054,
+    21.92836,
+    56.94054
+],
+  "geometry": {"coordinates":[21.92836,56.94054],"type":"Point"}
+}

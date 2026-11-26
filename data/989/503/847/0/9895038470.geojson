@@ -1,0 +1,72 @@
+{
+  "id": 9895038470,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1413,55.9995,27.1413,55.9995",
+    "geom:latitude":55.9995,
+    "geom:longitude":27.1413,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145926: name \"Vonogi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145926"
+        },
+        {
+            "citation":"GeoNames populated place 13145926: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145926"
+        },
+        {
+            "citation":"GeoNames populated place 13145926: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145926"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685833 (Kraslavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685833,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145926
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"78d36fb72ba88d4d880402a785e74d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038470,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":9895038470,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Vonogi",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1413,
+    55.9995,
+    27.1413,
+    55.9995
+],
+  "geometry": {"coordinates":[27.1413,55.9995],"type":"Point"}
+}

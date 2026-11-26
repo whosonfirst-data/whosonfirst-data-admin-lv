@@ -1,0 +1,72 @@
+{
+  "id": 9895040143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4003,55.8966,27.4003,55.8966",
+    "geom:latitude":55.8966,
+    "geom:longitude":27.4003,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147615: name \"Kokini\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147615"
+        },
+        {
+            "citation":"GeoNames populated place 13147615: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147615"
+        },
+        {
+            "citation":"GeoNames populated place 13147615: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147615"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685833 (Kraslavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685833,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147615
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"25ffcb7212bf18bc9b5dad20df67e621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040143,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":9895040143,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Kokini",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4003,
+    55.8966,
+    27.4003,
+    55.8966
+],
+  "geometry": {"coordinates":[27.4003,55.8966],"type":"Point"}
+}

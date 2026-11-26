@@ -1,0 +1,72 @@
+{
+  "id": 9895037641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3548,56.62557,27.3548,56.62557",
+    "geom:latitude":56.62557,
+    "geom:longitude":27.3548,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12008814: name \"Lucatnieki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12008814"
+        },
+        {
+            "citation":"GeoNames populated place 12008814: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12008814"
+        },
+        {
+            "citation":"GeoNames populated place 12008814: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12008814"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12008814
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"8881f917ad8fcc48c17ff36d28faf772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037641,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895037641,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Lucatnieki",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3548,
+    56.62557,
+    27.3548,
+    56.62557
+],
+  "geometry": {"coordinates":[27.3548,56.62557],"type":"Point"}
+}

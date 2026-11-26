@@ -1,0 +1,72 @@
+{
+  "id": 9895037472,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.57938,57.64776,25.57938,57.64776",
+    "geom:latitude":57.64776,
+    "geom:longitude":25.57938,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 461281: name \"Austras\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/461281"
+        },
+        {
+            "citation":"GeoNames populated place 461281: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/461281"
+        },
+        {
+            "citation":"GeoNames populated place 461281: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/461281"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008380 (Valmieras), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        102191581,
+        9895008380
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461281
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"30c6ea359bb64bb11472327c73c5dd25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037472,
+            "region_id":9895008380
+        }
+    ],
+    "wof:id":9895037472,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Austras",
+    "wof:parent_id":9895008380,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.57938,
+    57.64776,
+    25.57938,
+    57.64776
+],
+  "geometry": {"coordinates":[25.57938,57.64776],"type":"Point"}
+}

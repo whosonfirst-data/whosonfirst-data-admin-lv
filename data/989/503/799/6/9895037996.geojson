@@ -1,0 +1,72 @@
+{
+  "id": 9895037996,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.44887,57.24424,24.44887,57.24424",
+    "geom:latitude":57.24424,
+    "geom:longitude":24.44887,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145450: name \"Priedes\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145450"
+        },
+        {
+            "citation":"GeoNames populated place 13145450: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145450"
+        },
+        {
+            "citation":"GeoNames populated place 13145450: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145450"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686169 (Saulkrastu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686169,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145450
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b1b3fb3930203278a6fed00b1f539567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037996,
+            "region_id":85686169
+        }
+    ],
+    "wof:id":9895037996,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Priedes",
+    "wof:parent_id":85686169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.44887,
+    57.24424,
+    24.44887,
+    57.24424
+],
+  "geometry": {"coordinates":[24.44887,57.24424],"type":"Point"}
+}

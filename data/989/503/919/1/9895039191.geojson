@@ -1,0 +1,72 @@
+{
+  "id": 9895039191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.69104,57.23061,27.69104,57.23061",
+    "geom:latitude":57.23061,
+    "geom:longitude":27.69104,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146651: name \"St\u016br\u012b\u0161i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146651"
+        },
+        {
+            "citation":"GeoNames populated place 13146651: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146651"
+        },
+        {
+            "citation":"GeoNames populated place 13146651: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146651"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686235 (Balvu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686235,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146651
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"be01e1a8cda9fc6050185e08687278e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039191,
+            "region_id":85686235
+        }
+    ],
+    "wof:id":9895039191,
+    "wof:lastmodified":1795734962,
+    "wof:name":"St\u016br\u012b\u0161i",
+    "wof:parent_id":85686235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.69104,
+    57.23061,
+    27.69104,
+    57.23061
+],
+  "geometry": {"coordinates":[27.69104,57.23061],"type":"Point"}
+}

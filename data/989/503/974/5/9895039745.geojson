@@ -1,0 +1,72 @@
+{
+  "id": 9895039745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5819,56.0251,27.5819,56.0251",
+    "geom:latitude":56.0251,
+    "geom:longitude":27.5819,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147212: name \"Kara\u013cova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147212"
+        },
+        {
+            "citation":"GeoNames populated place 13147212: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147212"
+        },
+        {
+            "citation":"GeoNames populated place 13147212: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147212"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685833 (Kraslavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685833,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147212
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d23d7b5eb9bdcc6686de18190b92eacf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039745,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":9895039745,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Kara\u013cova",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5819,
+    56.0251,
+    27.5819,
+    56.0251
+],
+  "geometry": {"coordinates":[27.5819,56.0251],"type":"Point"}
+}

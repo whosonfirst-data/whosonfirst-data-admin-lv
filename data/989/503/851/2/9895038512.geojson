@@ -1,0 +1,72 @@
+{
+  "id": 9895038512,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.44498,56.01425,27.44498,56.01425",
+    "geom:latitude":56.01425,
+    "geom:longitude":27.44498,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145968: name \"\u0145em\u010dinova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145968"
+        },
+        {
+            "citation":"GeoNames populated place 13145968: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145968"
+        },
+        {
+            "citation":"GeoNames populated place 13145968: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145968"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685833 (Kraslavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685833,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145968
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"bdecf7799b0201279facef877533462f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038512,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":9895038512,
+    "wof:lastmodified":1795734962,
+    "wof:name":"\u0145em\u010dinova",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.44498,
+    56.01425,
+    27.44498,
+    56.01425
+],
+  "geometry": {"coordinates":[27.44498,56.01425],"type":"Point"}
+}

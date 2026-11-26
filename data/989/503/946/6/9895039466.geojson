@@ -1,0 +1,72 @@
+{
+  "id": 9895039466,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.86862,56.26362,27.86862,56.26362",
+    "geom:latitude":56.26362,
+    "geom:longitude":27.86862,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146931: name \"\u0160korlupova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146931"
+        },
+        {
+            "citation":"GeoNames populated place 13146931: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146931"
+        },
+        {
+            "citation":"GeoNames populated place 13146931: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146931"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686037 (Ludzas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686037,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146931
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"0970265add8d27c4698b6bb606bd7028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039466,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":9895039466,
+    "wof:lastmodified":1795734962,
+    "wof:name":"\u0160korlupova",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.86862,
+    56.26362,
+    27.86862,
+    56.26362
+],
+  "geometry": {"coordinates":[27.86862,56.26362],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895038247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.957,56.43047,23.957,56.43047",
+    "geom:latitude":56.43047,
+    "geom:longitude":23.957,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145703: name \"J\u0101\u0146ukrogs\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145703"
+        },
+        {
+            "citation":"GeoNames populated place 13145703: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145703"
+        },
+        {
+            "citation":"GeoNames populated place 13145703: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145703"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685851 (Bauskas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685851,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145703
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"47e0a55d76e6e3614d3e393c515f40be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038247,
+            "region_id":85685851
+        }
+    ],
+    "wof:id":9895038247,
+    "wof:lastmodified":1795734962,
+    "wof:name":"J\u0101\u0146ukrogs",
+    "wof:parent_id":85685851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.957,
+    56.43047,
+    23.957,
+    56.43047
+],
+  "geometry": {"coordinates":[23.957,56.43047],"type":"Point"}
+}

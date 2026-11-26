@@ -1,0 +1,72 @@
+{
+  "id": 9895037824,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.84033,56.54035,27.84033,56.54035",
+    "geom:latitude":56.54035,
+    "geom:longitude":27.84033,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145277: name \"Morozovka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145277"
+        },
+        {
+            "citation":"GeoNames populated place 13145277: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145277"
+        },
+        {
+            "citation":"GeoNames populated place 13145277: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145277"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686037 (Ludzas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686037,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145277
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"64697c42529a78c0392ca18c577f591c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037824,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":9895037824,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Morozovka",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.84033,
+    56.54035,
+    27.84033,
+    56.54035
+],
+  "geometry": {"coordinates":[27.84033,56.54035],"type":"Point"}
+}

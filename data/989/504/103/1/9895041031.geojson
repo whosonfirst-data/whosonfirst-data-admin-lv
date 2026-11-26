@@ -1,0 +1,72 @@
+{
+  "id": 9895041031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.73949,56.6105,27.73949,56.6105",
+    "geom:latitude":56.6105,
+    "geom:longitude":27.73949,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148515: name \"\u0160\u0137in\u010di\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148515"
+        },
+        {
+            "citation":"GeoNames populated place 13148515: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148515"
+        },
+        {
+            "citation":"GeoNames populated place 13148515: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148515"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686037 (Ludzas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686037,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148515
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"057461392a9a0cabf115c6619d5cef79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895041031,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":9895041031,
+    "wof:lastmodified":1795734962,
+    "wof:name":"\u0160\u0137in\u010di",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73949,
+    56.6105,
+    27.73949,
+    56.6105
+],
+  "geometry": {"coordinates":[27.73949,56.6105],"type":"Point"}
+}

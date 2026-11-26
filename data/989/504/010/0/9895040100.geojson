@@ -1,0 +1,72 @@
+{
+  "id": 9895040100,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.98971,56.50257,27.98971,56.50257",
+    "geom:latitude":56.50257,
+    "geom:longitude":27.98971,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147572: name \"\u0160\u010dast\u013civi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147572"
+        },
+        {
+            "citation":"GeoNames populated place 13147572: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147572"
+        },
+        {
+            "citation":"GeoNames populated place 13147572: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147572"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686037 (Ludzas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686037,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147572
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1c40435c08ad8c75c1971791219d570d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040100,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":9895040100,
+    "wof:lastmodified":1795734962,
+    "wof:name":"\u0160\u010dast\u013civi",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98971,
+    56.50257,
+    27.98971,
+    56.50257
+],
+  "geometry": {"coordinates":[27.98971,56.50257],"type":"Point"}
+}

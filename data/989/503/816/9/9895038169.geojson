@@ -1,0 +1,72 @@
+{
+  "id": 9895038169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.57341,56.2484,27.57341,56.2484",
+    "geom:latitude":56.2484,
+    "geom:longitude":27.57341,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145625: name \"Ledina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145625"
+        },
+        {
+            "citation":"GeoNames populated place 13145625: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145625"
+        },
+        {
+            "citation":"GeoNames populated place 13145625: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145625"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145625
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1bbd0764597234ed7cee2ede850fdfbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038169,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895038169,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ledina",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.57341,
+    56.2484,
+    27.57341,
+    56.2484
+],
+  "geometry": {"coordinates":[27.57341,56.2484],"type":"Point"}
+}

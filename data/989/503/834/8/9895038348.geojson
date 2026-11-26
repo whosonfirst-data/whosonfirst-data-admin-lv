@@ -1,0 +1,72 @@
+{
+  "id": 9895038348,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.17339,56.42813,26.17339,56.42813",
+    "geom:latitude":56.42813,
+    "geom:longitude":26.17339,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145804: name \"Robe\u017enieki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145804"
+        },
+        {
+            "citation":"GeoNames populated place 13145804: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145804"
+        },
+        {
+            "citation":"GeoNames populated place 13145804: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145804"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685943 (Livanu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685943,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145804
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f6ceca16855003e75a21c73fd9d79288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038348,
+            "region_id":85685943
+        }
+    ],
+    "wof:id":9895038348,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Robe\u017enieki",
+    "wof:parent_id":85685943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.17339,
+    56.42813,
+    26.17339,
+    56.42813
+],
+  "geometry": {"coordinates":[26.17339,56.42813],"type":"Point"}
+}

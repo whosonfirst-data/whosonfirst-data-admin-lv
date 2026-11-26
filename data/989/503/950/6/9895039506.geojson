@@ -1,0 +1,72 @@
+{
+  "id": 9895039506,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.91147,56.35576,27.91147,56.35576",
+    "geom:latitude":56.35576,
+    "geom:longitude":27.91147,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146971: name \"Makleri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146971"
+        },
+        {
+            "citation":"GeoNames populated place 13146971: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146971"
+        },
+        {
+            "citation":"GeoNames populated place 13146971: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146971"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686037 (Ludzas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686037,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146971
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"cad530bf3af7ab2b3b72fc751b016063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039506,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":9895039506,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Makleri",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.91147,
+    56.35576,
+    27.91147,
+    56.35576
+],
+  "geometry": {"coordinates":[27.91147,56.35576],"type":"Point"}
+}

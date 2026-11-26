@@ -1,0 +1,72 @@
+{
+  "id": 9895039294,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.56055,56.95409,24.56055,56.95409",
+    "geom:latitude":56.95409,
+    "geom:longitude":24.56055,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146757: name \"Baj\u0101rkrogs\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146757"
+        },
+        {
+            "citation":"GeoNames populated place 13146757: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146757"
+        },
+        {
+            "citation":"GeoNames populated place 13146757: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146757"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686069 (Ropa\u017eu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686069,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146757
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"18164e06f16461aeb6fb246f4a4310f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039294,
+            "region_id":85686069
+        }
+    ],
+    "wof:id":9895039294,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Baj\u0101rkrogs",
+    "wof:parent_id":85686069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.56055,
+    56.95409,
+    24.56055,
+    56.95409
+],
+  "geometry": {"coordinates":[24.56055,56.95409],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895039195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25891,56.794,24.25891,56.794",
+    "geom:latitude":56.794,
+    "geom:longitude":24.25891,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146655: name \"Saulgo\u017ei\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146655"
+        },
+        {
+            "citation":"GeoNames populated place 13146655: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146655"
+        },
+        {
+            "citation":"GeoNames populated place 13146655: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146655"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685999 (Kekavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685999,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146655
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"2258e13cfd51d3a0a9eb26ce5d71ee2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039195,
+            "region_id":85685999
+        }
+    ],
+    "wof:id":9895039195,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Saulgo\u017ei",
+    "wof:parent_id":85685999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25891,
+    56.794,
+    24.25891,
+    56.794
+],
+  "geometry": {"coordinates":[24.25891,56.794],"type":"Point"}
+}

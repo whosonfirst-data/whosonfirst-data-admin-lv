@@ -1,0 +1,72 @@
+{
+  "id": 9895038294,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.21706,56.3051,21.21706,56.3051",
+    "geom:latitude":56.3051,
+    "geom:longitude":21.21706,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145750: name \"Je\u010di\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145750"
+        },
+        {
+            "citation":"GeoNames populated place 13145750: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145750"
+        },
+        {
+            "citation":"GeoNames populated place 13145750: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145750"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008381 (Dienvidkurzemes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        102191581,
+        9895008381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145750
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"77d67460089051a8244bcb8a35a002a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038294,
+            "region_id":9895008381
+        }
+    ],
+    "wof:id":9895038294,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Je\u010di",
+    "wof:parent_id":9895008381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.21706,
+    56.3051,
+    21.21706,
+    56.3051
+],
+  "geometry": {"coordinates":[21.21706,56.3051],"type":"Point"}
+}

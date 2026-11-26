@@ -1,0 +1,72 @@
+{
+  "id": 9895037579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2386,56.66031,27.2386,56.66031",
+    "geom:latitude":56.66031,
+    "geom:longitude":27.2386,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12006725: name \"R\u016bbe\u017eneica\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12006725"
+        },
+        {
+            "citation":"GeoNames populated place 12006725: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12006725"
+        },
+        {
+            "citation":"GeoNames populated place 12006725: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12006725"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12006725
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1f3339221ce2ee22853ab557eff66809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037579,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895037579,
+    "wof:lastmodified":1795734962,
+    "wof:name":"R\u016bbe\u017eneica",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2386,
+    56.66031,
+    27.2386,
+    56.66031
+],
+  "geometry": {"coordinates":[27.2386,56.66031],"type":"Point"}
+}

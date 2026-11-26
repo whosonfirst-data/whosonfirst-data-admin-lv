@@ -1,0 +1,72 @@
+{
+  "id": 9895040875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.23721,56.43675,26.23721,56.43675",
+    "geom:latitude":56.43675,
+    "geom:longitude":26.23721,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148358: name \"Gai\u0146i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148358"
+        },
+        {
+            "citation":"GeoNames populated place 13148358: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148358"
+        },
+        {
+            "citation":"GeoNames populated place 13148358: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148358"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685943 (Livanu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685943,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148358
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"5adb8175f65f2711887d59059c742e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040875,
+            "region_id":85685943
+        }
+    ],
+    "wof:id":9895040875,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Gai\u0146i",
+    "wof:parent_id":85685943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.23721,
+    56.43675,
+    26.23721,
+    56.43675
+],
+  "geometry": {"coordinates":[26.23721,56.43675],"type":"Point"}
+}

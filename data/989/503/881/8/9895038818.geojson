@@ -1,0 +1,72 @@
+{
+  "id": 9895038818,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.33793,57.07435,27.33793,57.07435",
+    "geom:latitude":57.07435,
+    "geom:longitude":27.33793,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146276: name \"K\u0101rn\u012bte\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146276"
+        },
+        {
+            "citation":"GeoNames populated place 13146276: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146276"
+        },
+        {
+            "citation":"GeoNames populated place 13146276: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146276"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686235 (Balvu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686235,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146276
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"861e31cdfb14c9979b387e6ee2304193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038818,
+            "region_id":85686235
+        }
+    ],
+    "wof:id":9895038818,
+    "wof:lastmodified":1795734962,
+    "wof:name":"K\u0101rn\u012bte",
+    "wof:parent_id":85686235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.33793,
+    57.07435,
+    27.33793,
+    57.07435
+],
+  "geometry": {"coordinates":[27.33793,57.07435],"type":"Point"}
+}

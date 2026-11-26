@@ -1,0 +1,72 @@
+{
+  "id": 9895040224,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.522,56.11972,26.522,56.11972",
+    "geom:latitude":56.11972,
+    "geom:longitude":26.522,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147696: name \"Andrijova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147696"
+        },
+        {
+            "citation":"GeoNames populated place 13147696: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147696"
+        },
+        {
+            "citation":"GeoNames populated place 13147696: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147696"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008382 (Aug\u0161daugavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        102191581,
+        9895008382
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147696
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"549a4a7e43c56bb61f700a488fe1be6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040224,
+            "region_id":9895008382
+        }
+    ],
+    "wof:id":9895040224,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Andrijova",
+    "wof:parent_id":9895008382,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.522,
+    56.11972,
+    26.522,
+    56.11972
+],
+  "geometry": {"coordinates":[26.522,56.11972],"type":"Point"}
+}

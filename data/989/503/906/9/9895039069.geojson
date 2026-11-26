@@ -1,0 +1,72 @@
+{
+  "id": 9895039069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.64219,56.45914,27.64219,56.45914",
+    "geom:latitude":56.45914,
+    "geom:longitude":27.64219,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146528: name \"Viru\u013cova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146528"
+        },
+        {
+            "citation":"GeoNames populated place 13146528: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146528"
+        },
+        {
+            "citation":"GeoNames populated place 13146528: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146528"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686037 (Ludzas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686037,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146528
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"afa76f45af5ddac3b2757f69471cd0f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039069,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":9895039069,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Viru\u013cova",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.64219,
+    56.45914,
+    27.64219,
+    56.45914
+],
+  "geometry": {"coordinates":[27.64219,56.45914],"type":"Point"}
+}

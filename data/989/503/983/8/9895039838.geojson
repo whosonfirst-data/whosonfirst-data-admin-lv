@@ -1,0 +1,72 @@
+{
+  "id": 9895039838,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5322,56.2273,27.5322,56.2273",
+    "geom:latitude":56.2273,
+    "geom:longitude":27.5322,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147306: name \"Konu\u0161ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147306"
+        },
+        {
+            "citation":"GeoNames populated place 13147306: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147306"
+        },
+        {
+            "citation":"GeoNames populated place 13147306: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147306"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685833 (Kraslavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685833,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147306
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6e81d7eb0dd2382385371dd8d20d9393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039838,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":9895039838,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Konu\u0161ki",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5322,
+    56.2273,
+    27.5322,
+    56.2273
+],
+  "geometry": {"coordinates":[27.5322,56.2273],"type":"Point"}
+}
