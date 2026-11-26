@@ -97,7 +97,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686175
+        85686193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,13 +112,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101847169,
-            "region_id":85686175
+            "region_id":85686193
         }
     ],
     "wof:id":101847169,
-    "wof:lastmodified":1690938851,
+    "wof:lastmodified":1795732496,
     "wof:name":"Jaunpiebalga",
-    "wof:parent_id":85686175,
+    "wof:parent_id":85686193,
     "wof:placetype":"locality",
     "wof:population":1289,
     "wof:population_rank":3,

@@ -74,7 +74,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685907
+        85685971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,13 +91,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816309,
-            "region_id":85685907
+            "region_id":85685971
         }
     ],
     "wof:id":101816309,
-    "wof:lastmodified":1690938821,
+    "wof:lastmodified":1795732496,
     "wof:name":"\u0100ne",
-    "wof:parent_id":85685907,
+    "wof:parent_id":85685971,
     "wof:placetype":"locality",
     "wof:population":1780,
     "wof:population_rank":3,

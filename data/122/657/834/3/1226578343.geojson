@@ -43,7 +43,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685991
+        85685889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +56,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1226578343,
-            "region_id":85685991
+            "region_id":85685889
         }
     ],
     "wof:id":1226578343,
-    "wof:lastmodified":1566599177,
+    "wof:lastmodified":1795732496,
     "wof:name":"Ratites",
-    "wof:parent_id":85685991,
+    "wof:parent_id":85685889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

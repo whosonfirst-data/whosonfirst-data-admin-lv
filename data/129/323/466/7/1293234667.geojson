@@ -40,7 +40,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685995
+        85686079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +53,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1293234667,
-            "region_id":85685995
+            "region_id":85686079
         }
     ],
     "wof:id":1293234667,
-    "wof:lastmodified":1566598847,
+    "wof:lastmodified":1795732496,
     "wof:name":"Ledmane",
-    "wof:parent_id":85685995,
+    "wof:parent_id":85686079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

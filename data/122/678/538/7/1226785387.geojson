@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685995
+        85686079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +52,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1226785387,
-            "region_id":85685995
+            "region_id":85686079
         }
     ],
     "wof:id":1226785387,
-    "wof:lastmodified":1566599189,
+    "wof:lastmodified":1795732496,
     "wof:name":"Kaibala",
-    "wof:parent_id":85685995,
+    "wof:parent_id":85686079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

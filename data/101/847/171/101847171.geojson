@@ -68,7 +68,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686203
+        85686135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,13 +84,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101847171,
-            "region_id":85686203
+            "region_id":85686135
         }
     ],
     "wof:id":101847171,
-    "wof:lastmodified":1690938857,
+    "wof:lastmodified":1795732496,
     "wof:name":"Ragana",
-    "wof:parent_id":85686203,
+    "wof:parent_id":85686135,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

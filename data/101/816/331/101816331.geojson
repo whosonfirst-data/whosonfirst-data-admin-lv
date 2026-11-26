@@ -152,7 +152,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685957
+        85685999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -172,13 +172,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816331,
-            "region_id":85685957
+            "region_id":85685999
         }
     ],
     "wof:id":101816331,
-    "wof:lastmodified":1690938821,
+    "wof:lastmodified":1795732496,
     "wof:name":"Baldone",
-    "wof:parent_id":85685957,
+    "wof:parent_id":85685999,
     "wof:placetype":"locality",
     "wof:population":2025,
     "wof:population_rank":4,

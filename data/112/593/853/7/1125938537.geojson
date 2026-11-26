@@ -85,7 +85,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686107
+        85686113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,13 +102,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1125938537,
-            "region_id":85686107
+            "region_id":85686113
         }
     ],
     "wof:id":1125938537,
-    "wof:lastmodified":1690938860,
+    "wof:lastmodified":1795732496,
     "wof:name":"Kalngale",
-    "wof:parent_id":85686107,
+    "wof:parent_id":85686113,
     "wof:placetype":"locality",
     "wof:population":775,
     "wof:population_rank":2,

@@ -71,7 +71,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686103
+        85686083
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,13 +88,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1126038161,
-            "region_id":85686103
+            "region_id":85686083
         }
     ],
     "wof:id":1126038161,
-    "wof:lastmodified":1690938863,
+    "wof:lastmodified":1795732496,
     "wof:name":"Abragciems",
-    "wof:parent_id":85686103,
+    "wof:parent_id":85686083,
     "wof:placetype":"locality",
     "wof:population":70,
     "wof:population_rank":1,

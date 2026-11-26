@@ -41,7 +41,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686215
+        85686193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1360322191,
-            "region_id":85686215
+            "region_id":85686193
         }
     ],
     "wof:id":1360322191,
-    "wof:lastmodified":1566599047,
+    "wof:lastmodified":1795732496,
     "wof:name":"Snores",
-    "wof:parent_id":85686215,
+    "wof:parent_id":85686193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

@@ -132,7 +132,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685901
+        9895008381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -152,13 +152,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101847117,
-            "region_id":85685901
+            "region_id":9895008381
         }
     ],
     "wof:id":101847117,
-    "wof:lastmodified":1690938855,
+    "wof:lastmodified":1795732496,
     "wof:name":"P\u0101vilosta",
-    "wof:parent_id":85685901,
+    "wof:parent_id":9895008381,
     "wof:placetype":"locality",
     "wof:population":1171,
     "wof:population_rank":3,

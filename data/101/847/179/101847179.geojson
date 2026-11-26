@@ -138,7 +138,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686287
+        85686265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -158,13 +158,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101847179,
-            "region_id":85686287
+            "region_id":85686265
         }
     ],
     "wof:id":101847179,
-    "wof:lastmodified":1690938856,
+    "wof:lastmodified":1795732496,
     "wof:name":"Salacgr\u012bva",
-    "wof:parent_id":85686287,
+    "wof:parent_id":85686265,
     "wof:placetype":"locality",
     "wof:population":3427,
     "wof:population_rank":4,

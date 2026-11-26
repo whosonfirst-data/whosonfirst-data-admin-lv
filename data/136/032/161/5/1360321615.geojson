@@ -124,7 +124,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686139
+        85686037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -137,13 +137,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1360321615,
-            "region_id":85686139
+            "region_id":85686037
         }
     ],
     "wof:id":1360321615,
-    "wof:lastmodified":1566599047,
+    "wof:lastmodified":1795732496,
     "wof:name":"Sala",
-    "wof:parent_id":85686139,
+    "wof:parent_id":85686037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

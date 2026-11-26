@@ -168,7 +168,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685819
+        85685889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -188,13 +188,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816281,
-            "region_id":85685819
+            "region_id":85685889
         }
     ],
     "wof:id":101816281,
-    "wof:lastmodified":1690938826,
+    "wof:lastmodified":1795732496,
     "wof:name":"Akn\u012bste",
-    "wof:parent_id":85685819,
+    "wof:parent_id":85685889,
     "wof:placetype":"locality",
     "wof:population":1314,
     "wof:population_rank":3,

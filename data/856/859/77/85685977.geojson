@@ -2,7 +2,7 @@
   "id": 85685977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2021-07-01",
     "edtf:inception":"uuuu",
     "eurostat:country_code":"LV",
     "eurostat:gisco_id":"LV_0766300",
@@ -37,7 +37,7 @@
     "mps:latitude":56.364513,
     "mps:longitude":26.829627,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
@@ -321,7 +321,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1695885329,
+    "wof:lastmodified":1795732496,
     "wof:name":"Riebinu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
@@ -330,7 +330,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:shortcode":"RB",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85685929
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

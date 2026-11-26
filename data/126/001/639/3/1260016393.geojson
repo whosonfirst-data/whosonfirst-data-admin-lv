@@ -38,7 +38,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686011
+        85686079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +51,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1260016393,
-            "region_id":85686011
+            "region_id":85686079
         }
     ],
     "wof:id":1260016393,
-    "wof:lastmodified":1566598985,
+    "wof:lastmodified":1795732496,
     "wof:name":"Rembate",
-    "wof:parent_id":85686011,
+    "wof:parent_id":85686079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

@@ -150,7 +150,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686017
+        85686079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -169,13 +169,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816367,
-            "region_id":85686017
+            "region_id":85686079
         }
     ],
     "wof:id":101816367,
-    "wof:lastmodified":1690938834,
+    "wof:lastmodified":1795732496,
     "wof:name":"Ik\u0161\u0137ile",
-    "wof:parent_id":85686017,
+    "wof:parent_id":85686079,
     "wof:placetype":"locality",
     "wof:population":3368,
     "wof:population_rank":4,

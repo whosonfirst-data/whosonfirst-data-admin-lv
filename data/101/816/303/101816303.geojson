@@ -150,7 +150,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685893
+        85685833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,13 +170,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816303,
-            "region_id":85685893
+            "region_id":85685833
         }
     ],
     "wof:id":101816303,
-    "wof:lastmodified":1690938833,
+    "wof:lastmodified":1795732496,
     "wof:name":"Dagda",
-    "wof:parent_id":85685893,
+    "wof:parent_id":85685833,
     "wof:placetype":"locality",
     "wof:population":2740,
     "wof:population_rank":4,

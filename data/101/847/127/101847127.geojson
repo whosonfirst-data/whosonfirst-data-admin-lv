@@ -116,7 +116,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685961
+        85686043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,13 +132,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101847127,
-            "region_id":85685961
+            "region_id":85686043
         }
     ],
     "wof:id":101847127,
-    "wof:lastmodified":1690938853,
+    "wof:lastmodified":1795732496,
     "wof:name":"Alsunga",
-    "wof:parent_id":85685961,
+    "wof:parent_id":85686043,
     "wof:placetype":"locality",
     "wof:population":789,
     "wof:population_rank":2,

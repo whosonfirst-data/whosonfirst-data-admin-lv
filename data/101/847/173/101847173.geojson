@@ -101,7 +101,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686225
+        85686249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,13 +121,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101847173,
-            "region_id":85686225
+            "region_id":85686249
         }
     ],
     "wof:id":101847173,
-    "wof:lastmodified":1690938852,
+    "wof:lastmodified":1795732496,
     "wof:name":"Rauna",
-    "wof:parent_id":85686225,
+    "wof:parent_id":85686249,
     "wof:placetype":"locality",
     "wof:population":1584,
     "wof:population_rank":3,

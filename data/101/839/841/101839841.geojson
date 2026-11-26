@@ -196,7 +196,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686027
+        85686007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -216,13 +216,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101839841,
-            "region_id":85686027
+            "region_id":85686007
         }
     ],
     "wof:id":101839841,
-    "wof:lastmodified":1690938858,
+    "wof:lastmodified":1795732496,
     "wof:name":"Pi\u0146\u0137i",
-    "wof:parent_id":85686027,
+    "wof:parent_id":85686007,
     "wof:placetype":"locality",
     "wof:population":3434,
     "wof:population_rank":4,

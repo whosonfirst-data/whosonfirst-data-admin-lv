@@ -34,7 +34,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686049
+        85686095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,13 +47,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1327370069,
-            "region_id":85686049
+            "region_id":85686095
         }
     ],
     "wof:id":1327370069,
-    "wof:lastmodified":1566598707,
+    "wof:lastmodified":1795732496,
     "wof:name":"Ustroni",
-    "wof:parent_id":85686049,
+    "wof:parent_id":85686095,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

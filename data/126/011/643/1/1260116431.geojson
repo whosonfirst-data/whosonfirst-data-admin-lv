@@ -51,7 +51,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685953
+        85685889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,13 +65,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1260116431,
-            "region_id":85685953
+            "region_id":85685889
         }
     ],
     "wof:id":1260116431,
-    "wof:lastmodified":1566598986,
+    "wof:lastmodified":1795732496,
     "wof:name":"Vecselpils",
-    "wof:parent_id":85685953,
+    "wof:parent_id":85685889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

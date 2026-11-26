@@ -140,7 +140,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686055
+        85685965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -157,13 +157,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1125993685,
-            "region_id":85686055
+            "region_id":85685965
         }
     ],
     "wof:id":1125993685,
-    "wof:lastmodified":1690938866,
+    "wof:lastmodified":1795732496,
     "wof:name":"Pl\u0327avin\u0327as",
-    "wof:parent_id":85686055,
+    "wof:parent_id":85685965,
     "wof:placetype":"locality",
     "wof:population":3848,
     "wof:population_rank":4,

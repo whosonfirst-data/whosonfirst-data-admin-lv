@@ -46,7 +46,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686229
+        85686193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +59,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1309928531,
-            "region_id":85686229
+            "region_id":85686193
         }
     ],
     "wof:id":1309928531,
-    "wof:lastmodified":1566599078,
+    "wof:lastmodified":1795732496,
     "wof:name":"Marsneni",
-    "wof:parent_id":85686229,
+    "wof:parent_id":85686193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

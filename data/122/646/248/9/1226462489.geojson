@@ -66,7 +66,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685839
+        85685925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,13 +79,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1226462489,
-            "region_id":85685839
+            "region_id":85685925
         }
     ],
     "wof:id":1226462489,
-    "wof:lastmodified":1636494730,
+    "wof:lastmodified":1795732496,
     "wof:name":"Ile",
-    "wof:parent_id":85685839,
+    "wof:parent_id":85685925,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

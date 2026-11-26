@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686251
+        85686235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +46,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1343663839,
-            "region_id":85686251
+            "region_id":85686235
         }
     ],
     "wof:id":1343663839,
-    "wof:lastmodified":1566598776,
+    "wof:lastmodified":1795732496,
     "wof:name":"Tereskova",
-    "wof:parent_id":85686251,
+    "wof:parent_id":85686235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

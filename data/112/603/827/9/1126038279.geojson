@@ -80,7 +80,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686125
+        85686157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,13 +97,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1126038279,
-            "region_id":85686125
+            "region_id":85686157
         }
     ],
     "wof:id":1126038279,
-    "wof:lastmodified":1690938862,
+    "wof:lastmodified":1795732496,
     "wof:name":"Upesgr\u012bva",
-    "wof:parent_id":85686125,
+    "wof:parent_id":85686157,
     "wof:placetype":"locality",
     "wof:population":200,
     "wof:population_rank":2,

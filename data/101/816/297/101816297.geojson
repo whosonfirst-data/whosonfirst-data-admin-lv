@@ -175,7 +175,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685867
+        9895008381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -195,16 +195,16 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816297,
-            "region_id":85685867
+            "region_id":9895008381
         }
     ],
     "wof:id":101816297,
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690938840,
+    "wof:lastmodified":1795732496,
     "wof:name":"Aizpute",
-    "wof:parent_id":85685867,
+    "wof:parent_id":9895008381,
     "wof:placetype":"locality",
     "wof:population":5634,
     "wof:population_rank":5,

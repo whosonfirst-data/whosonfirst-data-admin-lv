@@ -38,7 +38,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685987
+        85686037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +51,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1360216113,
-            "region_id":85685987
+            "region_id":85686037
         }
     ],
     "wof:id":1360216113,
-    "wof:lastmodified":1566599044,
+    "wof:lastmodified":1795732496,
     "wof:name":"Pedelova",
-    "wof:parent_id":85685987,
+    "wof:parent_id":85686037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

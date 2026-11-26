@@ -106,7 +106,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686117
+        85686135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,13 +123,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816403,
-            "region_id":85686117
+            "region_id":85686135
         }
     ],
     "wof:id":101816403,
-    "wof:lastmodified":1690938841,
+    "wof:lastmodified":1795732496,
     "wof:name":"In\u010dukalns",
-    "wof:parent_id":85686117,
+    "wof:parent_id":85686135,
     "wof:placetype":"locality",
     "wof:population":2028,
     "wof:population_rank":4,

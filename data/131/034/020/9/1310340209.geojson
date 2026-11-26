@@ -34,7 +34,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686283
+        9895008380
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,13 +47,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1310340209,
-            "region_id":85686283
+            "region_id":9895008380
         }
     ],
     "wof:id":1310340209,
-    "wof:lastmodified":1566599031,
+    "wof:lastmodified":1795732496,
     "wof:name":"Pabezi",
-    "wof:parent_id":85686283,
+    "wof:parent_id":9895008380,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

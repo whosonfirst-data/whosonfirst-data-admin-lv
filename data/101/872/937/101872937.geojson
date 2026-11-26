@@ -70,7 +70,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686033
+        85686069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,13 +89,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101872937,
-            "region_id":85686033
+            "region_id":85686069
         }
     ],
     "wof:id":101872937,
-    "wof:lastmodified":1690938845,
+    "wof:lastmodified":1795732496,
     "wof:name":"Upeslejas",
-    "wof:parent_id":85686033,
+    "wof:parent_id":85686069,
     "wof:placetype":"locality",
     "wof:population":1183,
     "wof:population_rank":3,

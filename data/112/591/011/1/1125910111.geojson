@@ -166,7 +166,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686051
+        85686143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -183,13 +183,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1125910111,
-            "region_id":85686051
+            "region_id":85686143
         }
     ],
     "wof:id":1125910111,
-    "wof:lastmodified":1690938867,
+    "wof:lastmodified":1795732496,
     "wof:name":"Varakl\u0327\u0101ni",
-    "wof:parent_id":85686051,
+    "wof:parent_id":85686143,
     "wof:placetype":"locality",
     "wof:population":2106,
     "wof:population_rank":4,

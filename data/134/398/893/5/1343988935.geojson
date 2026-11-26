@@ -40,7 +40,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686189
+        85686193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +53,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1343988935,
-            "region_id":85686189
+            "region_id":85686193
         }
     ],
     "wof:id":1343988935,
-    "wof:lastmodified":1566598751,
+    "wof:lastmodified":1795732496,
     "wof:name":"Brezgis",
-    "wof:parent_id":85686189,
+    "wof:parent_id":85686193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],
