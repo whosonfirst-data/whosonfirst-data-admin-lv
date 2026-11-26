@@ -1,0 +1,72 @@
+{
+  "id": 9895038958,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.44389,56.4351,27.44389,56.4351",
+    "geom:latitude":56.4351,
+    "geom:longitude":27.44389,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146417: name \"Kup\u010dinki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146417"
+        },
+        {
+            "citation":"GeoNames populated place 13146417: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146417"
+        },
+        {
+            "citation":"GeoNames populated place 13146417: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146417"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146417
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"8edbf5079e381a237734ca2de43933a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038958,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895038958,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Kup\u010dinki",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.44389,
+    56.4351,
+    27.44389,
+    56.4351
+],
+  "geometry": {"coordinates":[27.44389,56.4351],"type":"Point"}
+}

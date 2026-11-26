@@ -1,0 +1,72 @@
+{
+  "id": 9895039132,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.97702,56.30554,26.97702,56.30554",
+    "geom:latitude":56.30554,
+    "geom:longitude":26.97702,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146591: name \"Kanc\u0101ni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146591"
+        },
+        {
+            "citation":"GeoNames populated place 13146591: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146591"
+        },
+        {
+            "citation":"GeoNames populated place 13146591: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146591"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146591
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"9d948be00a28a99c2e82bd758de4eec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039132,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895039132,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Kanc\u0101ni",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.97702,
+    56.30554,
+    26.97702,
+    56.30554
+],
+  "geometry": {"coordinates":[26.97702,56.30554],"type":"Point"}
+}

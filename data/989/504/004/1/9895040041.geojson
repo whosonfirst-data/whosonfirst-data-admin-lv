@@ -1,0 +1,72 @@
+{
+  "id": 9895040041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.81605,56.03732,26.81605,56.03732",
+    "geom:latitude":56.03732,
+    "geom:longitude":26.81605,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147512: name \"Maz\u0101 Baranovska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147512"
+        },
+        {
+            "citation":"GeoNames populated place 13147512: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147512"
+        },
+        {
+            "citation":"GeoNames populated place 13147512: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147512"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008382 (Aug\u0161daugavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        102191581,
+        9895008382
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147512
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"31ba8da0da3025c995a9b0f5a5a89178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040041,
+            "region_id":9895008382
+        }
+    ],
+    "wof:id":9895040041,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Maz\u0101 Baranovska",
+    "wof:parent_id":9895008382,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.81605,
+    56.03732,
+    26.81605,
+    56.03732
+],
+  "geometry": {"coordinates":[26.81605,56.03732],"type":"Point"}
+}

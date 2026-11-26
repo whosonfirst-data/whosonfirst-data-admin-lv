@@ -1,0 +1,72 @@
+{
+  "id": 9895039682,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4043,56.3934,27.4043,56.3934",
+    "geom:latitude":56.3934,
+    "geom:longitude":27.4043,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147148: name \"Mitri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147148"
+        },
+        {
+            "citation":"GeoNames populated place 13147148: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147148"
+        },
+        {
+            "citation":"GeoNames populated place 13147148: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147148"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147148
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c5c6b5b175f6a0f826a06c508d267009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039682,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895039682,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Mitri",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4043,
+    56.3934,
+    27.4043,
+    56.3934
+],
+  "geometry": {"coordinates":[27.4043,56.3934],"type":"Point"}
+}

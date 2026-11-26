@@ -1,0 +1,72 @@
+{
+  "id": 9895038634,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.58125,57.30053,22.58125,57.30053",
+    "geom:latitude":57.30053,
+    "geom:longitude":22.58125,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146091: name \"V\u012bgrieze\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146091"
+        },
+        {
+            "citation":"GeoNames populated place 13146091: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146091"
+        },
+        {
+            "citation":"GeoNames populated place 13146091: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146091"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686157 (Talsu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686157,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146091
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"fc12b9e100af7b461206f33f39f304d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038634,
+            "region_id":85686157
+        }
+    ],
+    "wof:id":9895038634,
+    "wof:lastmodified":1795734962,
+    "wof:name":"V\u012bgrieze",
+    "wof:parent_id":85686157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.58125,
+    57.30053,
+    22.58125,
+    57.30053
+],
+  "geometry": {"coordinates":[22.58125,57.30053],"type":"Point"}
+}

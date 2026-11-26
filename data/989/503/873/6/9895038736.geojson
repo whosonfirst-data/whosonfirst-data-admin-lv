@@ -1,0 +1,72 @@
+{
+  "id": 9895038736,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5559,56.19409,26.5559,56.19409",
+    "geom:latitude":56.19409,
+    "geom:longitude":26.5559,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146194: name \"Upes \u010ceir\u0101ni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146194"
+        },
+        {
+            "citation":"GeoNames populated place 13146194: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146194"
+        },
+        {
+            "citation":"GeoNames populated place 13146194: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146194"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685929 (Preilu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685929,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146194
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a801d3e3fa6c1b5d6ccbb5793c704bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038736,
+            "region_id":85685929
+        }
+    ],
+    "wof:id":9895038736,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Upes \u010ceir\u0101ni",
+    "wof:parent_id":85685929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5559,
+    56.19409,
+    26.5559,
+    56.19409
+],
+  "geometry": {"coordinates":[26.5559,56.19409],"type":"Point"}
+}

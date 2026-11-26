@@ -1,0 +1,72 @@
+{
+  "id": 9895039700,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.09011,56.35293,28.09011,56.35293",
+    "geom:latitude":56.35293,
+    "geom:longitude":28.09011,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147167: name \"Roma\u0161enki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147167"
+        },
+        {
+            "citation":"GeoNames populated place 13147167: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147167"
+        },
+        {
+            "citation":"GeoNames populated place 13147167: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147167"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686037 (Ludzas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686037,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147167
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"342bf1b7c2a9b7e8fed5af89c3e7805d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039700,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":9895039700,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Roma\u0161enki",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.09011,
+    56.35293,
+    28.09011,
+    56.35293
+],
+  "geometry": {"coordinates":[28.09011,56.35293],"type":"Point"}
+}

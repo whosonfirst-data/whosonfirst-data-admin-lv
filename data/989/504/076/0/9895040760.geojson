@@ -1,0 +1,72 @@
+{
+  "id": 9895040760,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.73375,57.18457,26.73375,57.18457",
+    "geom:latitude":57.18457,
+    "geom:longitude":26.73375,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148241: name \"Svelber\u0123is\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148241"
+        },
+        {
+            "citation":"GeoNames populated place 13148241: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148241"
+        },
+        {
+            "citation":"GeoNames populated place 13148241: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148241"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686241 (Gulbenes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686241,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148241
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6ff4271fd88de208f4d3ee5dd21c1584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040760,
+            "region_id":85686241
+        }
+    ],
+    "wof:id":9895040760,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Svelber\u0123is",
+    "wof:parent_id":85686241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73375,
+    57.18457,
+    26.73375,
+    57.18457
+],
+  "geometry": {"coordinates":[26.73375,57.18457],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895040236,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1155,55.8495,27.1155,55.8495",
+    "geom:latitude":55.8495,
+    "geom:longitude":27.1155,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147708: name \"Upmalie\u0161i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147708"
+        },
+        {
+            "citation":"GeoNames populated place 13147708: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147708"
+        },
+        {
+            "citation":"GeoNames populated place 13147708: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147708"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685833 (Kraslavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685833,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147708
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"112aa85611ed356cc3edd24a3b21869b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040236,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":9895040236,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Upmalie\u0161i",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1155,
+    55.8495,
+    27.1155,
+    55.8495
+],
+  "geometry": {"coordinates":[27.1155,55.8495],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895040382,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.99421,56.4514,26.99421,56.4514",
+    "geom:latitude":56.4514,
+    "geom:longitude":26.99421,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147857: name \"Paramonovka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147857"
+        },
+        {
+            "citation":"GeoNames populated place 13147857: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147857"
+        },
+        {
+            "citation":"GeoNames populated place 13147857: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147857"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147857
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"984dce7b47cf3aff456b71a14a104d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040382,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895040382,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Paramonovka",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.99421,
+    56.4514,
+    26.99421,
+    56.4514
+],
+  "geometry": {"coordinates":[26.99421,56.4514],"type":"Point"}
+}

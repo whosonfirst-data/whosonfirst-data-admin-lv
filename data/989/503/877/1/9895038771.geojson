@@ -1,0 +1,72 @@
+{
+  "id": 9895038771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.46386,57.04353,27.46386,57.04353",
+    "geom:latitude":57.04353,
+    "geom:longitude":27.46386,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146229: name \"Ple\u0161eva\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146229"
+        },
+        {
+            "citation":"GeoNames populated place 13146229: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146229"
+        },
+        {
+            "citation":"GeoNames populated place 13146229: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146229"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686235 (Balvu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686235,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146229
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"651d3b5c6fd683a3b73fca11cedcdeed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038771,
+            "region_id":85686235
+        }
+    ],
+    "wof:id":9895038771,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ple\u0161eva",
+    "wof:parent_id":85686235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.46386,
+    57.04353,
+    27.46386,
+    57.04353
+],
+  "geometry": {"coordinates":[27.46386,57.04353],"type":"Point"}
+}

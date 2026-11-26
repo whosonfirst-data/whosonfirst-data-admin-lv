@@ -1,0 +1,72 @@
+{
+  "id": 9895038303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5746,56.1937,27.5746,56.1937",
+    "geom:latitude":56.1937,
+    "geom:longitude":27.5746,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145759: name \"Vucini\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145759"
+        },
+        {
+            "citation":"GeoNames populated place 13145759: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145759"
+        },
+        {
+            "citation":"GeoNames populated place 13145759: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145759"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685833 (Kraslavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685833,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145759
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b4f7d38fc2cac1e5f4f9c7c9ea0b63e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038303,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":9895038303,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Vucini",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5746,
+    56.1937,
+    27.5746,
+    56.1937
+],
+  "geometry": {"coordinates":[27.5746,56.1937],"type":"Point"}
+}

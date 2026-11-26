@@ -1,0 +1,72 @@
+{
+  "id": 9895040886,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.60185,56.91445,27.60185,56.91445",
+    "geom:latitude":56.91445,
+    "geom:longitude":27.60185,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148369: name \"Slostova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148369"
+        },
+        {
+            "citation":"GeoNames populated place 13148369: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148369"
+        },
+        {
+            "citation":"GeoNames populated place 13148369: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148369"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686235 (Balvu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686235,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148369
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"4465984383231b215ca2476d38e004fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040886,
+            "region_id":85686235
+        }
+    ],
+    "wof:id":9895040886,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Slostova",
+    "wof:parent_id":85686235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.60185,
+    56.91445,
+    27.60185,
+    56.91445
+],
+  "geometry": {"coordinates":[27.60185,56.91445],"type":"Point"}
+}

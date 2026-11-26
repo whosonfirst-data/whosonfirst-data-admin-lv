@@ -1,0 +1,72 @@
+{
+  "id": 9895040084,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.97209,56.20975,26.97209,56.20975",
+    "geom:latitude":56.20975,
+    "geom:longitude":26.97209,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147556: name \"Mazie Joksti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147556"
+        },
+        {
+            "citation":"GeoNames populated place 13147556: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147556"
+        },
+        {
+            "citation":"GeoNames populated place 13147556: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147556"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685929 (Preilu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685929,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147556
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a0a7ef8674c435769e2cad25f6e35af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040084,
+            "region_id":85685929
+        }
+    ],
+    "wof:id":9895040084,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Mazie Joksti",
+    "wof:parent_id":85685929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.97209,
+    56.20975,
+    26.97209,
+    56.20975
+],
+  "geometry": {"coordinates":[26.97209,56.20975],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895037656,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.25312,56.6483,27.25312,56.6483",
+    "geom:latitude":56.6483,
+    "geom:longitude":27.25312,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12008873: name \"Ozin\u012bki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12008873"
+        },
+        {
+            "citation":"GeoNames populated place 12008873: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12008873"
+        },
+        {
+            "citation":"GeoNames populated place 12008873: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12008873"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12008873
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6d3f9020d9ac0187d1c26906692359c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037656,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895037656,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ozin\u012bki",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.25312,
+    56.6483,
+    27.25312,
+    56.6483
+],
+  "geometry": {"coordinates":[27.25312,56.6483],"type":"Point"}
+}

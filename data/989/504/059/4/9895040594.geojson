@@ -1,0 +1,72 @@
+{
+  "id": 9895040594,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.70898,56.06613,26.70898,56.06613",
+    "geom:latitude":56.06613,
+    "geom:longitude":26.70898,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148074: name \"Narbuti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148074"
+        },
+        {
+            "citation":"GeoNames populated place 13148074: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148074"
+        },
+        {
+            "citation":"GeoNames populated place 13148074: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148074"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008382 (Aug\u0161daugavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        102191581,
+        9895008382
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148074
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"aa6e30a8651a913c55e11ccfc0224040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040594,
+            "region_id":9895008382
+        }
+    ],
+    "wof:id":9895040594,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Narbuti",
+    "wof:parent_id":9895008382,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.70898,
+    56.06613,
+    26.70898,
+    56.06613
+],
+  "geometry": {"coordinates":[26.70898,56.06613],"type":"Point"}
+}

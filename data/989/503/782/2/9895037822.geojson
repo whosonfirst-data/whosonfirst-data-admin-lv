@@ -1,0 +1,72 @@
+{
+  "id": 9895037822,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.46442,56.20624,26.46442,56.20624",
+    "geom:latitude":56.20624,
+    "geom:longitude":26.46442,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145275: name \"Vingri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145275"
+        },
+        {
+            "citation":"GeoNames populated place 13145275: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145275"
+        },
+        {
+            "citation":"GeoNames populated place 13145275: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145275"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685929 (Preilu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685929,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145275
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c38ea33f4d825281dd302bfe8f07a5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037822,
+            "region_id":85685929
+        }
+    ],
+    "wof:id":9895037822,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Vingri",
+    "wof:parent_id":85685929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.46442,
+    56.20624,
+    26.46442,
+    56.20624
+],
+  "geometry": {"coordinates":[26.46442,56.20624],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895040162,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.63827,57.01594,27.63827,57.01594",
+    "geom:latitude":57.01594,
+    "geom:longitude":27.63827,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147634: name \"Sepovka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147634"
+        },
+        {
+            "citation":"GeoNames populated place 13147634: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147634"
+        },
+        {
+            "citation":"GeoNames populated place 13147634: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147634"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686235 (Balvu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686235,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147634
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"4ff4d9efe30757702e2f8093420081d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040162,
+            "region_id":85686235
+        }
+    ],
+    "wof:id":9895040162,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Sepovka",
+    "wof:parent_id":85686235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.63827,
+    57.01594,
+    27.63827,
+    57.01594
+],
+  "geometry": {"coordinates":[27.63827,57.01594],"type":"Point"}
+}

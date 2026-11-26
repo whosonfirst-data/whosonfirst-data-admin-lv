@@ -1,0 +1,72 @@
+{
+  "id": 9895041121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.417,55.9792,27.417,55.9792",
+    "geom:latitude":55.9792,
+    "geom:longitude":27.417,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148607: name \"Kali\u0161kas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148607"
+        },
+        {
+            "citation":"GeoNames populated place 13148607: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148607"
+        },
+        {
+            "citation":"GeoNames populated place 13148607: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148607"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685833 (Kraslavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685833,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148607
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1da7247b48d9f3a956d1eeb42754150e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895041121,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":9895041121,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Kali\u0161kas",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.417,
+    55.9792,
+    27.417,
+    55.9792
+],
+  "geometry": {"coordinates":[27.417,55.9792],"type":"Point"}
+}

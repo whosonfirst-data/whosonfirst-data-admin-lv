@@ -1,0 +1,72 @@
+{
+  "id": 9895038477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.73513,56.09507,26.73513,56.09507",
+    "geom:latitude":56.09507,
+    "geom:longitude":26.73513,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145933: name \"Cepl\u012b\u0161i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145933"
+        },
+        {
+            "citation":"GeoNames populated place 13145933: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145933"
+        },
+        {
+            "citation":"GeoNames populated place 13145933: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145933"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008382 (Aug\u0161daugavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        102191581,
+        9895008382
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145933
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c8a5bf29bf41f4f38a7dea6790ee07bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038477,
+            "region_id":9895008382
+        }
+    ],
+    "wof:id":9895038477,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Cepl\u012b\u0161i",
+    "wof:parent_id":9895008382,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73513,
+    56.09507,
+    26.73513,
+    56.09507
+],
+  "geometry": {"coordinates":[26.73513,56.09507],"type":"Point"}
+}

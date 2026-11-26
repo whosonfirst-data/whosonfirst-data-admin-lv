@@ -1,0 +1,72 @@
+{
+  "id": 9895039122,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.49148,56.30804,26.49148,56.30804",
+    "geom:latitude":56.30804,
+    "geom:longitude":26.49148,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146581: name \"Sanaude\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146581"
+        },
+        {
+            "citation":"GeoNames populated place 13146581: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146581"
+        },
+        {
+            "citation":"GeoNames populated place 13146581: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146581"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685943 (Livanu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685943,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146581
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"4e53d3f4c2c481e927af669d792d1c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039122,
+            "region_id":85685943
+        }
+    ],
+    "wof:id":9895039122,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Sanaude",
+    "wof:parent_id":85685943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.49148,
+    56.30804,
+    26.49148,
+    56.30804
+],
+  "geometry": {"coordinates":[26.49148,56.30804],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895037446,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25595,56.17778,21.25595,56.17778",
+    "geom:latitude":56.17778,
+    "geom:longitude":21.25595,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 456909: name \"Palaipe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/456909"
+        },
+        {
+            "citation":"GeoNames populated place 456909: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/456909"
+        },
+        {
+            "citation":"GeoNames populated place 456909: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/456909"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008381 (Dienvidkurzemes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        102191581,
+        9895008381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456909
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"7565968a161bab78a0af089608e58d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037446,
+            "region_id":9895008381
+        }
+    ],
+    "wof:id":9895037446,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Palaipe",
+    "wof:parent_id":9895008381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25595,
+    56.17778,
+    21.25595,
+    56.17778
+],
+  "geometry": {"coordinates":[21.25595,56.17778],"type":"Point"}
+}

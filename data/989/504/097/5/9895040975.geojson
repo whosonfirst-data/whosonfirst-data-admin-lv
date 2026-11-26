@@ -1,0 +1,72 @@
+{
+  "id": 9895040975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.55343,56.32721,24.55343,56.32721",
+    "geom:latitude":56.32721,
+    "geom:longitude":24.55343,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148459: name \"M\u0113mele\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148459"
+        },
+        {
+            "citation":"GeoNames populated place 13148459: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148459"
+        },
+        {
+            "citation":"GeoNames populated place 13148459: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148459"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685851 (Bauskas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685851,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148459
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f8181a2f0f0995d92f07343a60959304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040975,
+            "region_id":85685851
+        }
+    ],
+    "wof:id":9895040975,
+    "wof:lastmodified":1795734962,
+    "wof:name":"M\u0113mele",
+    "wof:parent_id":85685851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.55343,
+    56.32721,
+    24.55343,
+    56.32721
+],
+  "geometry": {"coordinates":[24.55343,56.32721],"type":"Point"}
+}

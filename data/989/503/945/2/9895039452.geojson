@@ -1,0 +1,72 @@
+{
+  "id": 9895039452,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68502,57.04484,27.68502,57.04484",
+    "geom:latitude":57.04484,
+    "geom:longitude":27.68502,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146916: name \"Pr\u012bdovka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146916"
+        },
+        {
+            "citation":"GeoNames populated place 13146916: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146916"
+        },
+        {
+            "citation":"GeoNames populated place 13146916: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146916"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686235 (Balvu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686235,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146916
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"3bccd2f053da3450fcd6ca736b9f40b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039452,
+            "region_id":85686235
+        }
+    ],
+    "wof:id":9895039452,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Pr\u012bdovka",
+    "wof:parent_id":85686235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68502,
+    57.04484,
+    27.68502,
+    57.04484
+],
+  "geometry": {"coordinates":[27.68502,57.04484],"type":"Point"}
+}

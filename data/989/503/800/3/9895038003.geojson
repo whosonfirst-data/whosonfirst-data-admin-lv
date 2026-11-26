@@ -1,0 +1,72 @@
+{
+  "id": 9895038003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5274,56.3556,27.5274,56.3556",
+    "geom:latitude":56.3556,
+    "geom:longitude":27.5274,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145457: name \"Gra\u0161i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145457"
+        },
+        {
+            "citation":"GeoNames populated place 13145457: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145457"
+        },
+        {
+            "citation":"GeoNames populated place 13145457: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145457"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145457
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a07fb1d2b2229405aae41f64e4be582d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038003,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895038003,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Gra\u0161i",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5274,
+    56.3556,
+    27.5274,
+    56.3556
+],
+  "geometry": {"coordinates":[27.5274,56.3556],"type":"Point"}
+}

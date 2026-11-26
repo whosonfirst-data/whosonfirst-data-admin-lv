@@ -1,0 +1,72 @@
+{
+  "id": 9895039969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.90583,56.15919,26.90583,56.15919",
+    "geom:latitude":56.15919,
+    "geom:longitude":26.90583,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147439: name \"Kropova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147439"
+        },
+        {
+            "citation":"GeoNames populated place 13147439: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147439"
+        },
+        {
+            "citation":"GeoNames populated place 13147439: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147439"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685929 (Preilu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685929,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147439
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d7ab8907a121f665f5b79a16b2a5607f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039969,
+            "region_id":85685929
+        }
+    ],
+    "wof:id":9895039969,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Kropova",
+    "wof:parent_id":85685929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.90583,
+    56.15919,
+    26.90583,
+    56.15919
+],
+  "geometry": {"coordinates":[26.90583,56.15919],"type":"Point"}
+}

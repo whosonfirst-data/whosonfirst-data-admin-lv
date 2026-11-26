@@ -1,0 +1,72 @@
+{
+  "id": 9895039771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5683,56.8389,27.5683,56.8389",
+    "geom:latitude":56.8389,
+    "geom:longitude":27.5683,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147238: name \"Krutova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147238"
+        },
+        {
+            "citation":"GeoNames populated place 13147238: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147238"
+        },
+        {
+            "citation":"GeoNames populated place 13147238: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147238"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686037 (Ludzas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686037,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147238
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"5679c1ee45c033cd19f56bdec5f169bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039771,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":9895039771,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Krutova",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5683,
+    56.8389,
+    27.5683,
+    56.8389
+],
+  "geometry": {"coordinates":[27.5683,56.8389],"type":"Point"}
+}

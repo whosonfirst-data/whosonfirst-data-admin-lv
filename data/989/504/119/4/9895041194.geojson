@@ -1,0 +1,72 @@
+{
+  "id": 9895041194,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.77184,57.15859,26.77184,57.15859",
+    "geom:latitude":57.15859,
+    "geom:longitude":26.77184,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148680: name \"Margas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148680"
+        },
+        {
+            "citation":"GeoNames populated place 13148680: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148680"
+        },
+        {
+            "citation":"GeoNames populated place 13148680: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148680"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686241 (Gulbenes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686241,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148680
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"be27bb575ef0c8baae6c2d6143c10adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895041194,
+            "region_id":85686241
+        }
+    ],
+    "wof:id":9895041194,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Margas",
+    "wof:parent_id":85686241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.77184,
+    57.15859,
+    26.77184,
+    57.15859
+],
+  "geometry": {"coordinates":[26.77184,57.15859],"type":"Point"}
+}

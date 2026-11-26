@@ -1,0 +1,72 @@
+{
+  "id": 9895039636,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7066,56.39257,27.7066,56.39257",
+    "geom:latitude":56.39257,
+    "geom:longitude":27.7066,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147102: name \"Sleinova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147102"
+        },
+        {
+            "citation":"GeoNames populated place 13147102: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147102"
+        },
+        {
+            "citation":"GeoNames populated place 13147102: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147102"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686037 (Ludzas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686037,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147102
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a24cf6c3e62f0d2c66c553204dbd1965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039636,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":9895039636,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Sleinova",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7066,
+    56.39257,
+    27.7066,
+    56.39257
+],
+  "geometry": {"coordinates":[27.7066,56.39257],"type":"Point"}
+}

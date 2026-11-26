@@ -1,0 +1,72 @@
+{
+  "id": 9895038547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.83028,56.07661,26.83028,56.07661",
+    "geom:latitude":56.07661,
+    "geom:longitude":26.83028,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146003: name \"Pak\u0146i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146003"
+        },
+        {
+            "citation":"GeoNames populated place 13146003: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146003"
+        },
+        {
+            "citation":"GeoNames populated place 13146003: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146003"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008382 (Aug\u0161daugavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        102191581,
+        9895008382
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146003
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"bbb6eb56fa10d6e1d091061db630bdf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038547,
+            "region_id":9895008382
+        }
+    ],
+    "wof:id":9895038547,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Pak\u0146i",
+    "wof:parent_id":9895008382,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.83028,
+    56.07661,
+    26.83028,
+    56.07661
+],
+  "geometry": {"coordinates":[26.83028,56.07661],"type":"Point"}
+}

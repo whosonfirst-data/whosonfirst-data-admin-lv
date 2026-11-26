@@ -1,0 +1,72 @@
+{
+  "id": 9895037463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.18669,56.88549,24.18669,56.88549",
+    "geom:latitude":56.88549,
+    "geom:longitude":24.18669,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 458959: name \"Katlakalns\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/458959"
+        },
+        {
+            "citation":"GeoNames populated place 458959: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/458959"
+        },
+        {
+            "citation":"GeoNames populated place 458959: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/458959"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685999 (Kekavas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685999,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458959
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"0ce1e022423c48abc41d93af414a9c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037463,
+            "region_id":85685999
+        }
+    ],
+    "wof:id":9895037463,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Katlakalns",
+    "wof:parent_id":85685999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18669,
+    56.88549,
+    24.18669,
+    56.88549
+],
+  "geometry": {"coordinates":[24.18669,56.88549],"type":"Point"}
+}

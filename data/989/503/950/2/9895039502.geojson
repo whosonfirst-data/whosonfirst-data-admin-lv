@@ -1,0 +1,72 @@
+{
+  "id": 9895039502,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.79744,56.12936,26.79744,56.12936",
+    "geom:latitude":56.12936,
+    "geom:longitude":26.79744,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146967: name \"Za\u013c\u0101 Birze\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146967"
+        },
+        {
+            "citation":"GeoNames populated place 13146967: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146967"
+        },
+        {
+            "citation":"GeoNames populated place 13146967: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146967"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685929 (Preilu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685929,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146967
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"2c3b5af8a9eed3ced9729117ff6ca39c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039502,
+            "region_id":85685929
+        }
+    ],
+    "wof:id":9895039502,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Za\u013c\u0101 Birze",
+    "wof:parent_id":85685929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.79744,
+    56.12936,
+    26.79744,
+    56.12936
+],
+  "geometry": {"coordinates":[26.79744,56.12936],"type":"Point"}
+}

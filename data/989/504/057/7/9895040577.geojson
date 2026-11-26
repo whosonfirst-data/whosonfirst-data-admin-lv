@@ -1,0 +1,72 @@
+{
+  "id": 9895040577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.69381,56.35691,26.69381,56.35691",
+    "geom:latitude":56.35691,
+    "geom:longitude":26.69381,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148057: name \"Su\u0146epi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148057"
+        },
+        {
+            "citation":"GeoNames populated place 13148057: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148057"
+        },
+        {
+            "citation":"GeoNames populated place 13148057: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148057"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685929 (Preilu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685929,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148057
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"88089c2611aea3c08b2644c908aca93c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040577,
+            "region_id":85685929
+        }
+    ],
+    "wof:id":9895040577,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Su\u0146epi",
+    "wof:parent_id":85685929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.69381,
+    56.35691,
+    26.69381,
+    56.35691
+],
+  "geometry": {"coordinates":[26.69381,56.35691],"type":"Point"}
+}

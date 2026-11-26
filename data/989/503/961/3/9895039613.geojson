@@ -1,0 +1,72 @@
+{
+  "id": 9895039613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.90493,57.41501,21.90493,57.41501",
+    "geom:latitude":57.41501,
+    "geom:longitude":21.90493,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147079: name \"Jaunmui\u017ea\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147079"
+        },
+        {
+            "citation":"GeoNames populated place 13147079: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147079"
+        },
+        {
+            "citation":"GeoNames populated place 13147079: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147079"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686197 (Ventspils), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686197,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147079
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"9871fc78d160e5b446dd66a3913d85b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039613,
+            "region_id":85686197
+        }
+    ],
+    "wof:id":9895039613,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Jaunmui\u017ea",
+    "wof:parent_id":85686197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.90493,
+    57.41501,
+    21.90493,
+    57.41501
+],
+  "geometry": {"coordinates":[21.90493,57.41501],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895037476,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.72058,56.65981,25.72058,56.65981",
+    "geom:latitude":56.65981,
+    "geom:longitude":25.72058,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11789862: name \"Me\u017eezers\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11789862"
+        },
+        {
+            "citation":"GeoNames populated place 11789862: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11789862"
+        },
+        {
+            "citation":"GeoNames populated place 11789862: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11789862"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685965 (Aizkraukles), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685965,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11789862
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"65ecdf46533510bbad3022237c4ac6ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037476,
+            "region_id":85685965
+        }
+    ],
+    "wof:id":9895037476,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Me\u017eezers",
+    "wof:parent_id":85685965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.72058,
+    56.65981,
+    25.72058,
+    56.65981
+],
+  "geometry": {"coordinates":[25.72058,56.65981],"type":"Point"}
+}

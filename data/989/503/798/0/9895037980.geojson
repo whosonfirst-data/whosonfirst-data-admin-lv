@@ -1,0 +1,72 @@
+{
+  "id": 9895037980,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63971,56.44012,21.63971,56.44012",
+    "geom:latitude":56.44012,
+    "geom:longitude":21.63971,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145434: name \"Kalnenieki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145434"
+        },
+        {
+            "citation":"GeoNames populated place 13145434: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145434"
+        },
+        {
+            "citation":"GeoNames populated place 13145434: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145434"
+        },
+        {
+            "citation":"The hierarchy of WOF region 9895008381 (Dienvidkurzemes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        102191581,
+        9895008381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145434
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e8d235321e49d9dd828e0ece9883b095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037980,
+            "region_id":9895008381
+        }
+    ],
+    "wof:id":9895037980,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Kalnenieki",
+    "wof:parent_id":9895008381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63971,
+    56.44012,
+    21.63971,
+    56.44012
+],
+  "geometry": {"coordinates":[21.63971,56.44012],"type":"Point"}
+}

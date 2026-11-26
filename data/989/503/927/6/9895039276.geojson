@@ -1,0 +1,72 @@
+{
+  "id": 9895039276,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.45041,57.27218,24.45041,57.27218",
+    "geom:latitude":57.27218,
+    "geom:longitude":24.45041,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146739: name \"Saul\u012bte\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146739"
+        },
+        {
+            "citation":"GeoNames populated place 13146739: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146739"
+        },
+        {
+            "citation":"GeoNames populated place 13146739: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146739"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686169 (Saulkrastu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686169,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146739
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"3607e5f4bf6f848ac591cb03d3dbfd32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039276,
+            "region_id":85686169
+        }
+    ],
+    "wof:id":9895039276,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Saul\u012bte",
+    "wof:parent_id":85686169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.45041,
+    57.27218,
+    24.45041,
+    57.27218
+],
+  "geometry": {"coordinates":[24.45041,57.27218],"type":"Point"}
+}

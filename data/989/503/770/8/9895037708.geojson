@@ -1,0 +1,72 @@
+{
+  "id": 9895037708,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.46373,56.55585,27.46373,56.55585",
+    "geom:latitude":56.55585,
+    "geom:longitude":27.46373,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12009497: name \"Me\u017eagai\u013ci\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12009497"
+        },
+        {
+            "citation":"GeoNames populated place 12009497: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12009497"
+        },
+        {
+            "citation":"GeoNames populated place 12009497: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12009497"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686095 (Rezeknes), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686095,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12009497
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"435390b2486490353170321d2af787e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895037708,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":9895037708,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Me\u017eagai\u013ci",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.46373,
+    56.55585,
+    27.46373,
+    56.55585
+],
+  "geometry": {"coordinates":[27.46373,56.55585],"type":"Point"}
+}

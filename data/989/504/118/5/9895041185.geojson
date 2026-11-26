@@ -1,0 +1,72 @@
+{
+  "id": 9895041185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.17438,56.41493,24.17438,56.41493",
+    "geom:latitude":56.41493,
+    "geom:longitude":24.17438,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13148671: name \"Elektri\u0137i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13148671"
+        },
+        {
+            "citation":"GeoNames populated place 13148671: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13148671"
+        },
+        {
+            "citation":"GeoNames populated place 13148671: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13148671"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685851 (Bauskas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685851,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13148671
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"379fc56a8e741990f6249b37f0edef2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895041185,
+            "region_id":85685851
+        }
+    ],
+    "wof:id":9895041185,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Elektri\u0137i",
+    "wof:parent_id":85685851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.17438,
+    56.41493,
+    24.17438,
+    56.41493
+],
+  "geometry": {"coordinates":[24.17438,56.41493],"type":"Point"}
+}

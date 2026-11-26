@@ -1,0 +1,72 @@
+{
+  "id": 9895040312,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.63378,56.9213,27.63378,56.9213",
+    "geom:latitude":56.9213,
+    "geom:longitude":27.63378,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13147787: name \"Ezerova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13147787"
+        },
+        {
+            "citation":"GeoNames populated place 13147787: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13147787"
+        },
+        {
+            "citation":"GeoNames populated place 13147787: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13147787"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85686235 (Balvu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85686235,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13147787
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f04c01c8a1d52435af0488d3fc8c4696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895040312,
+            "region_id":85686235
+        }
+    ],
+    "wof:id":9895040312,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Ezerova",
+    "wof:parent_id":85686235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.63378,
+    56.9213,
+    27.63378,
+    56.9213
+],
+  "geometry": {"coordinates":[27.63378,56.9213],"type":"Point"}
+}

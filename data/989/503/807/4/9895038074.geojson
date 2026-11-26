@@ -1,0 +1,72 @@
+{
+  "id": 9895038074,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.76872,56.51917,26.76872,56.51917",
+    "geom:latitude":56.51917,
+    "geom:longitude":26.76872,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145528: name \"Sprukstini\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145528"
+        },
+        {
+            "citation":"GeoNames populated place 13145528: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145528"
+        },
+        {
+            "citation":"GeoNames populated place 13145528: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145528"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685929 (Preilu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685929,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145528
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"5250ba448daa586a9ecbea7b40ede102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038074,
+            "region_id":85685929
+        }
+    ],
+    "wof:id":9895038074,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Sprukstini",
+    "wof:parent_id":85685929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.76872,
+    56.51917,
+    26.76872,
+    56.51917
+],
+  "geometry": {"coordinates":[26.76872,56.51917],"type":"Point"}
+}

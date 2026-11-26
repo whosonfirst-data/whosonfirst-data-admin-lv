@@ -1,0 +1,72 @@
+{
+  "id": 9895039225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.47299,56.40775,26.47299,56.40775",
+    "geom:latitude":56.40775,
+    "geom:longitude":26.47299,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13146686: name \"Sta\u0146islavova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13146686"
+        },
+        {
+            "citation":"GeoNames populated place 13146686: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13146686"
+        },
+        {
+            "citation":"GeoNames populated place 13146686: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13146686"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685943 (Livanu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685943,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13146686
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1ac14a3ad741648c432b99898482b0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895039225,
+            "region_id":85685943
+        }
+    ],
+    "wof:id":9895039225,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Sta\u0146islavova",
+    "wof:parent_id":85685943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.47299,
+    56.40775,
+    26.47299,
+    56.40775
+],
+  "geometry": {"coordinates":[26.47299,56.40775],"type":"Point"}
+}

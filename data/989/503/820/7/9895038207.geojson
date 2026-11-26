@@ -1,0 +1,72 @@
+{
+  "id": 9895038207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.82236,56.33956,26.82236,56.33956",
+    "geom:latitude":56.33956,
+    "geom:longitude":26.82236,
+    "iso:country":"LV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13145663: name \"Skange\u013ci\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13145663"
+        },
+        {
+            "citation":"GeoNames populated place 13145663: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13145663"
+        },
+        {
+            "citation":"GeoNames populated place 13145663: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13145663"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85685929 (Preilu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279,
+        85685929,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13145663
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f989985db9749e34762dc89cad81d297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":9895038207,
+            "region_id":85685929
+        }
+    ],
+    "wof:id":9895038207,
+    "wof:lastmodified":1795734962,
+    "wof:name":"Skange\u013ci",
+    "wof:parent_id":85685929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.82236,
+    56.33956,
+    26.82236,
+    56.33956
+],
+  "geometry": {"coordinates":[26.82236,56.33956],"type":"Point"}
+}
