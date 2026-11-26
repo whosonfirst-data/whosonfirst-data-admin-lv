@@ -154,7 +154,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686011
+        85686079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -174,13 +174,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816357,
-            "region_id":85686011
+            "region_id":85686079
         }
     ],
     "wof:id":101816357,
-    "wof:lastmodified":1690938832,
+    "wof:lastmodified":1795732496,
     "wof:name":"\u0136egums",
-    "wof:parent_id":85686011,
+    "wof:parent_id":85686079,
     "wof:placetype":"locality",
     "wof:population":2372,
     "wof:population_rank":4,

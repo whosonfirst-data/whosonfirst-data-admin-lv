@@ -42,7 +42,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685811
+        9895008381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +55,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1226785217,
-            "region_id":85685811
+            "region_id":9895008381
         }
     ],
     "wof:id":1226785217,
-    "wof:lastmodified":1566599189,
+    "wof:lastmodified":1795732496,
     "wof:name":"Gavieze",
-    "wof:parent_id":85685811,
+    "wof:parent_id":9895008381,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

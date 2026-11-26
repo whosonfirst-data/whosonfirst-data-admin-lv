@@ -151,7 +151,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685987
+        85686037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -171,13 +171,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816347,
-            "region_id":85685987
+            "region_id":85686037
         }
     ],
     "wof:id":101816347,
-    "wof:lastmodified":1690938831,
+    "wof:lastmodified":1795732496,
     "wof:name":"Zilupe",
-    "wof:parent_id":85685987,
+    "wof:parent_id":85686037,
     "wof:placetype":"locality",
     "wof:population":1897,
     "wof:population_rank":3,

@@ -133,7 +133,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686275
+        9895008380
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -153,13 +153,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816463,
-            "region_id":85686275
+            "region_id":9895008380
         }
     ],
     "wof:id":101816463,
-    "wof:lastmodified":1690938827,
+    "wof:lastmodified":1795732496,
     "wof:name":"Stren\u010di",
-    "wof:parent_id":85686275,
+    "wof:parent_id":9895008380,
     "wof:placetype":"locality",
     "wof:population":1593,
     "wof:population_rank":3,

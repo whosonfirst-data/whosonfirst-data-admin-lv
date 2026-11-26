@@ -43,7 +43,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686073
+        85686069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +64,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816383,
-            "region_id":85686073
+            "region_id":85686069
         }
     ],
     "wof:id":101816383,
-    "wof:lastmodified":1582313196,
+    "wof:lastmodified":1795732496,
     "wof:name":"Garkalne",
-    "wof:parent_id":85686073,
+    "wof:parent_id":85686069,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

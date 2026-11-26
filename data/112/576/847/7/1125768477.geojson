@@ -150,7 +150,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685829
+        9895008381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,13 +166,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1125768477,
-            "region_id":85685829
+            "region_id":9895008381
         }
     ],
     "wof:id":1125768477,
-    "wof:lastmodified":1690938869,
+    "wof:lastmodified":1795732496,
     "wof:name":"Durbe",
-    "wof:parent_id":85685829,
+    "wof:parent_id":9895008381,
     "wof:placetype":"locality",
     "wof:population":454,
     "wof:population_rank":2,

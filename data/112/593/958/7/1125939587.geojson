@@ -58,7 +58,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686303
+        9895008380
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,13 +74,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1125939587,
-            "region_id":85686303
+            "region_id":9895008380
         }
     ],
     "wof:id":1125939587,
-    "wof:lastmodified":1566599083,
+    "wof:lastmodified":1795732496,
     "wof:name":"Pried\u0101ji",
-    "wof:parent_id":85686303,
+    "wof:parent_id":9895008380,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

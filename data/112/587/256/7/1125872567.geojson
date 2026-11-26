@@ -62,7 +62,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686125
+        85686157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,13 +79,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1125872567,
-            "region_id":85686125
+            "region_id":85686157
         }
     ],
     "wof:id":1125872567,
-    "wof:lastmodified":1566599087,
+    "wof:lastmodified":1795732496,
     "wof:name":"Alksn\u0101jciems",
-    "wof:parent_id":85686125,
+    "wof:parent_id":85686157,
     "wof:placetype":"locality",
     "wof:population":20,
     "wof:population_rank":1,

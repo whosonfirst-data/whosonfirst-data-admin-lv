@@ -135,7 +135,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686131
+        85686143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,13 +155,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816407,
-            "region_id":85686131
+            "region_id":85686143
         }
     ],
     "wof:id":101816407,
-    "wof:lastmodified":1690938828,
+    "wof:lastmodified":1795732496,
     "wof:name":"Lub\u0101na",
-    "wof:parent_id":85686131,
+    "wof:parent_id":85686143,
     "wof:placetype":"locality",
     "wof:population":1918,
     "wof:population_rank":3,

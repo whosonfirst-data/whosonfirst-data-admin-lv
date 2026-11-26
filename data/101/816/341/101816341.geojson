@@ -98,7 +98,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685975
+        85685965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,13 +114,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816341,
-            "region_id":85685975
+            "region_id":85685965
         }
     ],
     "wof:id":101816341,
-    "wof:lastmodified":1690938829,
+    "wof:lastmodified":1795732496,
     "wof:name":"Skr\u012bveri",
-    "wof:parent_id":85685975,
+    "wof:parent_id":85685965,
     "wof:placetype":"locality",
     "wof:population":2879,
     "wof:population_rank":4,

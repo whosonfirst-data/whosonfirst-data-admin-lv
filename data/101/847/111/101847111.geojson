@@ -94,7 +94,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685863
+        85685965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,13 +111,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101847111,
-            "region_id":85685863
+            "region_id":85685965
         }
     ],
     "wof:id":101847111,
-    "wof:lastmodified":1690938853,
+    "wof:lastmodified":1795732496,
     "wof:name":"Nereta",
-    "wof:parent_id":85685863,
+    "wof:parent_id":85685965,
     "wof:placetype":"locality",
     "wof:population":1282,
     "wof:population_rank":3,

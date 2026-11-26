@@ -132,7 +132,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686293
+        85686265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -153,16 +153,16 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101847181,
-            "region_id":85686293
+            "region_id":85686265
         }
     ],
     "wof:id":101847181,
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690938853,
+    "wof:lastmodified":1795732496,
     "wof:name":"Staicele",
-    "wof:parent_id":85686293,
+    "wof:parent_id":85686265,
     "wof:placetype":"locality",
     "wof:population":1175,
     "wof:population_rank":3,

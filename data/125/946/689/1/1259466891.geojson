@@ -58,7 +58,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685911
+        85685889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,13 +71,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1259466891,
-            "region_id":85685911
+            "region_id":85685889
         }
     ],
     "wof:id":1259466891,
-    "wof:lastmodified":1636494729,
+    "wof:lastmodified":1795732496,
     "wof:name":"Krustpils",
-    "wof:parent_id":85685911,
+    "wof:parent_id":85685889,
     "wof:placetype":"locality",
     "wof:population":6680,
     "wof:population_rank":5,

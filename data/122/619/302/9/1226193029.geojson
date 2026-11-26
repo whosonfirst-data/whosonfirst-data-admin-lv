@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686061
+        85686083
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +52,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1226193029,
-            "region_id":85686061
+            "region_id":85686083
         }
     ],
     "wof:id":1226193029,
-    "wof:lastmodified":1566599165,
+    "wof:lastmodified":1795732496,
     "wof:name":"Korgelciems",
-    "wof:parent_id":85686061,
+    "wof:parent_id":85686083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

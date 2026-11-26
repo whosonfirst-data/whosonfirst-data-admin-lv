@@ -201,7 +201,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686221
+        85686157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -221,13 +221,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816439,
-            "region_id":85686221
+            "region_id":85686157
         }
     ],
     "wof:id":101816439,
-    "wof:lastmodified":1690938826,
+    "wof:lastmodified":1795732496,
     "wof:name":"Kolka",
-    "wof:parent_id":85686221,
+    "wof:parent_id":85686157,
     "wof:placetype":"locality",
     "wof:population":874,
     "wof:population_rank":2,

@@ -34,7 +34,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685947
+        85685965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,13 +47,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1343490667,
-            "region_id":85685947
+            "region_id":85685965
         }
     ],
     "wof:id":1343490667,
-    "wof:lastmodified":1566598772,
+    "wof:lastmodified":1795732496,
     "wof:name":"Bagu",
-    "wof:parent_id":85685947,
+    "wof:parent_id":85685965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

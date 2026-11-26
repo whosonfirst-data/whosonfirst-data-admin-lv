@@ -47,7 +47,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685893
+        85685833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +60,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1310039629,
-            "region_id":85685893
+            "region_id":85685833
         }
     ],
     "wof:id":1310039629,
-    "wof:lastmodified":1566599026,
+    "wof:lastmodified":1795732496,
     "wof:name":"Paulini",
-    "wof:parent_id":85685893,
+    "wof:parent_id":85685833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

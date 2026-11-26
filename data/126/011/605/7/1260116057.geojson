@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686221
+        85686157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +52,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1260116057,
-            "region_id":85686221
+            "region_id":85686157
         }
     ],
     "wof:id":1260116057,
-    "wof:lastmodified":1566598986,
+    "wof:lastmodified":1795732496,
     "wof:name":"Emerkalni",
-    "wof:parent_id":85686221,
+    "wof:parent_id":85686157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

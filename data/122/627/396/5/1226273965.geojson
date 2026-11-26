@@ -40,7 +40,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685977
+        85685929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +53,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1226273965,
-            "region_id":85685977
+            "region_id":85685929
         }
     ],
     "wof:id":1226273965,
-    "wof:lastmodified":1566599167,
+    "wof:lastmodified":1795732496,
     "wof:name":"Vidsmuiza",
-    "wof:parent_id":85685977,
+    "wof:parent_id":85685929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

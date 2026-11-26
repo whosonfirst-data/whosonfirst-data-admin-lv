@@ -156,7 +156,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686151
+        85686143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -177,16 +177,16 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816417,
-            "region_id":85686151
+            "region_id":85686143
         }
     ],
     "wof:id":101816417,
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690938836,
+    "wof:lastmodified":1795732496,
     "wof:name":"Cesvaine",
-    "wof:parent_id":85686151,
+    "wof:parent_id":85686143,
     "wof:placetype":"locality",
     "wof:population":1811,
     "wof:population_rank":3,

@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685863
+        85685965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +52,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1326644245,
-            "region_id":85685863
+            "region_id":85685965
         }
     ],
     "wof:id":1326644245,
-    "wof:lastmodified":1566598736,
+    "wof:lastmodified":1795732496,
     "wof:name":"Erberge",
-    "wof:parent_id":85685863,
+    "wof:parent_id":85685965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

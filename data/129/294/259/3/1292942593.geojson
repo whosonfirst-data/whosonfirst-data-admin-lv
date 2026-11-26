@@ -74,7 +74,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686175
+        85686193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,13 +88,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1292942593,
-            "region_id":85686175
+            "region_id":85686193
         }
     ],
     "wof:id":1292942593,
-    "wof:lastmodified":1566598840,
+    "wof:lastmodified":1795732496,
     "wof:name":"Piebalga",
-    "wof:parent_id":85686175,
+    "wof:parent_id":85686193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

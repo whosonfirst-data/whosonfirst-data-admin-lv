@@ -38,7 +38,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686211
+        85686157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +51,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1243314389,
-            "region_id":85686211
+            "region_id":85686157
         }
     ],
     "wof:id":1243314389,
-    "wof:lastmodified":1566599096,
+    "wof:lastmodified":1795732496,
     "wof:name":"Valgalciems",
-    "wof:parent_id":85686211,
+    "wof:parent_id":85686157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

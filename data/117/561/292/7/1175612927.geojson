@@ -142,7 +142,7 @@
         102191581,
         101847115,
         85633279,
-        85685885
+        85685935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -161,14 +161,13 @@
         {
             "continent_id":102191581,
             "country_id":85633279,
-            "locality_id":101847115,
-            "region_id":85685885
+            "region_id":85685935
         }
     ],
     "wof:id":1175612927,
-    "wof:lastmodified":1690938820,
+    "wof:lastmodified":1795732496,
     "wof:name":"Broc\u0113ni",
-    "wof:parent_id":85685885,
+    "wof:parent_id":85685935,
     "wof:placetype":"locality",
     "wof:population":3486,
     "wof:population_rank":4,

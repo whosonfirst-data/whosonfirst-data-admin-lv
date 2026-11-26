@@ -65,7 +65,7 @@
     },
     "wof:belongsto":[
         85633279,
-        85686011
+        85686079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,13 +80,13 @@
         {
             "campus_id":102544369,
             "country_id":85633279,
-            "region_id":85686011
+            "region_id":85686079
         }
     ],
     "wof:id":102544369,
-    "wof:lastmodified":1631743635,
+    "wof:lastmodified":1795732496,
     "wof:name":"Lielvarde Airport",
-    "wof:parent_id":85686011,
+    "wof:parent_id":85686079,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

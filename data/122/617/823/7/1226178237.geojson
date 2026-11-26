@@ -41,7 +41,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686257
+        9895008380
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +54,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1226178237,
-            "region_id":85686257
+            "region_id":9895008380
         }
     ],
     "wof:id":1226178237,
-    "wof:lastmodified":1566599164,
+    "wof:lastmodified":1795732496,
     "wof:name":"Podzeni",
-    "wof:parent_id":85686257,
+    "wof:parent_id":9895008380,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

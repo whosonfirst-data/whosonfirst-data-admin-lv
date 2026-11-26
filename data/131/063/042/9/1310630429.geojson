@@ -148,7 +148,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686117
+        85686135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -161,13 +161,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1310630429,
-            "region_id":85686117
+            "region_id":85686135
         }
     ],
     "wof:id":1310630429,
-    "wof:lastmodified":1566599015,
+    "wof:lastmodified":1795732496,
     "wof:name":"Gauja",
-    "wof:parent_id":85686117,
+    "wof:parent_id":85686135,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

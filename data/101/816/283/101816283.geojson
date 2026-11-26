@@ -270,7 +270,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85685825
+        9895008382
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -286,13 +286,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":101816283,
-            "region_id":85685825
+            "region_id":9895008382
         }
     ],
     "wof:id":101816283,
-    "wof:lastmodified":1690938835,
+    "wof:lastmodified":1795732496,
     "wof:name":"Silene",
-    "wof:parent_id":85685825,
+    "wof:parent_id":9895008382,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],

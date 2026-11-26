@@ -67,7 +67,7 @@
     "wof:belongsto":[
         102191581,
         85633279,
-        85686293
+        85686265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,13 +80,13 @@
             "continent_id":102191581,
             "country_id":85633279,
             "locality_id":1277110327,
-            "region_id":85686293
+            "region_id":85686265
         }
     ],
     "wof:id":1277110327,
-    "wof:lastmodified":1566598918,
+    "wof:lastmodified":1795732496,
     "wof:name":"Urga",
-    "wof:parent_id":85686293,
+    "wof:parent_id":85686265,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],
